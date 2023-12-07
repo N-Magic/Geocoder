@@ -34,9 +34,7 @@ def geocode_csv(input_csv, output_csv):
     # Save the updated DataFrame to a new CSV file
     df.to_csv(output_csv, index=False)
 
-if __name__ == "__main__":
-    input_csv_file = "input.csv"  # Replace with your input CSV file
-    output_csv_file = "output.csv"  # Replace with your desired output CSV file
-
-    geocode_csv(input_csv_file, output_csv_file)
-    print(f"Geocoding completed. Results saved to {output_csv_file}")
+input_csv_file = "input.csv"  # Replace with your input CSV file
+output_csv_file = "output.csv"  # Replace with your desired output CSV file
+geocode_csv(input_csv_file, output_csv_file)
+print(f"Geocoding completed. Results saved to {output_csv_file}")
