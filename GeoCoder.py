@@ -1,9 +1,21 @@
 import pandas as pd
 from geopy.geocoders import Nominatim
 
-def geocode_address(address):
+def geocode_address(row):
     geolocator = Nominatim(user_agent="geocoder_script")
     try:
+        print(row)
+        address = (str(int(row['num'])) + ", ")
+        address +=  str(row['street'])
+        address += " "
+        
+        # Include 'type' only if it's not NaN
+        if pd.notna(row['type']):
+            address += str(row['type'])
+        address += ", Stone County, Missouri, "
+        address += (str(row['Zip'])+ ", United States")
+        
+        print(address)
         location = geolocator.geocode(address)
         if location:
             return location.latitude, location.longitude
@@ -26,15 +38,17 @@ def geocode_csv(input_csv, output_csv):
     # Geocode rows that don't have 'lat' and 'lng' values
     for index, row in df.iterrows():
         if pd.isnull(row['lat']) or pd.isnull(row['lng']):
-            address = f"{row['num']} {row['street']} {row['type']}, {row['City']} {row['Zip']}"
-            lat, lng = geocode_address(address)
+            lat, lng = geocode_address(row)
+            print(lat, lng)
             df.at[index, 'lat'] = lat
             df.at[index, 'lng'] = lng
 
     # Save the updated DataFrame to a new CSV file
     df.to_csv(output_csv, index=False)
 
-input_csv_file = "input.csv"  # Replace with your input CSV file
-output_csv_file = "output.csv"  # Replace with your desired output CSV file
-geocode_csv(input_csv_file, output_csv_file)
-print(f"Geocoding completed. Results saved to {output_csv_file}")
+if __name__ == "__main__":
+    input_csv_file = "input.csv"  # Replace with your input CSV file
+    output_csv_file = "output.csv"  # Replace with your desired output CSV file
+
+    geocode_csv(input_csv_file, output_csv_file)
+    print(f"Geocoding completed. Results saved to {output_csv_file}")

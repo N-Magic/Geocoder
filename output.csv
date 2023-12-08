@@ -1,0 +1,1563 @@
+num,street,type,City,Zip,Page,lat,lng,Address
+215.0,Blackbird,Lane,Lampe ,65681,1,36.58483133,-93.45741421,215 Blackbird Lane
+2.0,Hillcrest,Drive,Kimberling City,65686,1,36.646482,-93.429645,2 Hillcrest Dr
+4.0,Hillcrest,Drive,Kimberling City,65686,1,36.64653847,-93.42975864,4 Hillcrest Dr
+88.0,Oak Grove,Lane,Galena,65656,1,36.72448936,-93.43601139,88 Oak Grove Ln
+88.0,Oak Grove,Lane,Galena,65656,1,36.72448936,-93.43601139,88 Oak Grove Ln
+850.0,Santana,Circle,Reeds Spring,65737,1,36.65086386,-93.46379894,850 Santana Cir.
+51.0,Skyline,Drive,Kimberling City,65686,1,36.64007502,-93.43453119,51 Skyline Dr
+51.0,Skyline,Drive,Kimberling City,65686,1,36.64007502,-93.43453119,51 Skyline Dr
+118.0,Spinnaker,Lane,Kimberling City,65686,1,36.64184057,-93.41202559,118 Spinnaker Lane
+75.0,The Lodges,Drive,Lampe ,65681,1,36.59351367,-93.42933736,75  The Lodges Tr
+266.0,Green Acres,Road,Lampe ,65681,2,36.53629034,-93.50954257,266 Green Acres
+266.0,Green Acres,Road,Lampe ,65681,2,36.53629034,-93.50954257,266 Green Acres
+3760.0,MO 13,,Lampe ,65681,2,36.53306938,-93.42514146,3760 State Hwy 13
+812.0,MO EE,,Blue Eye,65611,2,36.50105771,-93.38402619,812 State Hwy EE
+2456.0,Nauvoo,Road,Lampe ,65681,2,36.53745597,-93.51132971,2456 Nauvoo Rd
+869.0,Pack,Lane,Lampe ,65681,2,36.541127,-93.500745,869 Pack Lane
+1234.0,Persimmon Hill,Lane,Lampe ,65681,2,36.53261742,-93.51604519,1234 Persimmon Hill
+1234.0,Persimmon Hill,Lane,Lampe ,65681,2,36.53261742,-93.51604519,1234 Persimmon Hill
+1595.0,Persimmon Hill,Lane,Lampe ,65681,2,36.5349597,-93.52021254,1595 Persimmon Hill
+224.0,Shiloh,Lane,Kimberling City,65686,2,36.62741507,-93.43987467,224 Shiloa Lane
+49.0,Allison Bend,,Lampe ,65681,3,36.53329773,-93.50994712,49 Allison Bend
+49.0,Allison Bend,,Lampe ,65681,3,36.53329773,-93.50994712,49 Allison Bend
+190.0,Allison Bend,,Lampe ,65681,3,36.53307519,-93.50869373,190 Allison Bend
+4229.0,MO 86,,Lampe ,65681,3,36.51632327,-93.4904823,4229 W Hwy 86
+1220.0,Persimmon Hill,Lane,Lampe ,65681,3,36.53246983,-93.51603935,1220 Persimmon Hill
+1220.0,Persimmon Hill,Lane,Lampe ,65681,3,36.53246983,-93.51603935,1220 Persimmon Hill
+1240.0,Persimmon Hill,Lane,Lampe ,65681,3,36.53268067,-93.51604769,1240 Persimmon Hill
+1595.0,Persimmon Hill,Lane,Lampe ,65681,3,36.5349597,-93.52021254,1595 Persimmon Hill
+604.0,Quiet Acres,Road,,65681,3,36.54304988720126,-93.479785122663,604 Quiet Acres
+15094.0,Business Highway 13,,Branson West,65737,4,36.67103157,-93.40786622,15094 Bus 13 #8
+31.0,Crestview,Street,Kimberling City,65686,4,36.63662979,-93.42113194,31 Crestview
+31.0,Crestview,Street,Kimberling City,65686,4,36.63662979,-93.42113194,31 Crestview
+147.0,Eagle Ridge,Lane,Branson West,65737,4,36.61898394,-93.37211705,147 Eagle Ridge 
+44.0,Indian Cove,Drive,Lampe ,65681,4,36.56601503,-93.47618582,44 Indian Cove 
+44.0,Indian Cove,Drive,Lampe ,65681,4,36.56601503,-93.47618582,44 Indian Cove 
+322.0,Lake Circle,Drive,Galena,65656,4,36.713059,-93.517829,322 Lake Circle Dr
+1498.0,Lancelot,Lane,Reeds Spring,65737,4,36.631403,-93.386061,149 Lambstow Dr
+90.0,Little Fox,Lane,Lampe ,65681,4,36.59202151,-93.43508556,90 Little Fox Lane
+491.0,Trellis,Drive,Lampe ,65681,4,36.53674495,-93.48468925,491 Trellis Dr
+1233.0,Broken Arrow,Road,Lampe ,65681,5,36.55963416,-93.46289603,1233 BrokenArrow Rd
+8.0,Chevy,Lane,Lampe ,65681,5,36.56658454,-93.44325041,8 Chev Ln.
+27.0,Jan,Lane,Lampe ,65681,5,36.57129575,-93.44712043,27 Kingsgate
+94.0,Rejoice,Lane,Blue Eye,65611,5,36.5160607,-93.38136155,94 Rejoice Lane
+931.0,Silverbluff,Circle,Reeds Spring,65737,5,36.68811233,-93.31366187,931 Silver Bluff Cr.
+252.0,Spring,Road,Blue Eye,65611,5,36.57567006,-93.49892446,252 Spring Rd
+9426.0,State Highway 86,,Blue Eye,65611,5,36.53641110108924,-93.38195141782103,9426 E Hwy 86
+9426.0,State Highway 86,,Blue Eye,65611,5,36.5364111,-93.38195142,9426 E Hwy 86
+367.0,Waterview,Lane,Lampe ,65681,5,36.60263127,-93.49706231,367 Waterview Ln
+789.0,Backwood,,Lampe ,65681,6,36.56871092641778,-93.46925115260396,789 Blackwood 
+768.0,Cron,Road,Lampe ,65681,6,36.5431586,-93.45475531,768 Cron Rd
+242.0,Jones Trading Post,Road,,65681,6,36.547948656139845,-93.43869659468055,242 Jones Trading post Rd
+188.0,L Garrison,Drive,Lampe ,65681,6,36.56827665,-93.43324058,188 L. Garrison Dr
+188.0,L Garrison,Drive,Lampe ,65681,6,36.56827665,-93.43324058,188 L. Garrison Dr
+133.0,Pearl,Lane,Lampe ,65681,6,36.56271512,-93.44168282,133 Pearl Ln
+1220.0,Persimmon Hill,Lane,Lampe ,65681,6,36.53246983,-93.51603935,1220 Persimmon Hill
+1220.0,Persimmon Hill,Lane,Lampe ,65681,6,36.53246983,-93.51603935,1220 Persimmon Hill
+1986.0,Persimmon Hill,Lane,Lampe ,65681,6,36.53103713,-93.52257188,1986 Persimmson Hill Ln
+5.0,Quiet Acres,Road,,65681,6,36.53871548582603,-93.48416745796376,5 Quiet Acres Rd
+1454.0,Alyeska Point,Road,Lampe ,65681,7,36.58367285,-93.5022045,1454 Alyeska Pl
+97.0,Chinook,Lane,Kimberling City,65686,7,36.60258522,-93.46248921,97 ChinooK Ln
+4.0,Pine,Lane,Kimberling City,65686,7,36.63621391,-93.43447362,4 Pine Ln
+4.0,Pine,Lane,Kimberling City,65686,7,36.63621391,-93.43447362,4 Pine Ln
+7.0,Pine,Lane,Kimberling City,65686,7,36.63604445,-93.43438157,7 Pine Ln 
+7.0,Pine,Lane,Kimberling City,65686,7,36.63604445,-93.43438157,7 Pine Ln 
+1042.0,Pokeberry,Lane,Lampe ,65681,7,36.59089558,-93.41360787,1042 Pokeberry Ln
+137.0,Ridgeview,Road,Branson West,65737,7,36.64417385,-93.38671692,137 Ridgeview Rd
+399.0,Silverbridge,Lane,Kimberling City,65686,7,36.6146509,-93.41297865,399 Silver bridge Ln
+10.0,Skyline,Drive,Kimberling City,65686,7,36.637244,-93.435005,10 Skyline Dr
+345.0,Briar Cliff,Road,Lampe ,65681,8,36.57160914,-93.47751822,345 Briar Cliff Rd
+19.0,Dapple,Lane,Blue Eye,65611,8,36.53434785,-93.32967529,19 DappleLn
+345.0,Labradore,Lane,,65681,8,36.5686596217319,-93.48621461128914,345 Labrador Ln
+345.0,Labradore,Lane,,65681,8,36.5686596217319,-93.48621461128914,345 Labrador Ln
+355.0,Mayflower,Drive,Lampe ,65681,8,36.6026193,-93.49420517,355 Mayflower Dr
+355.0,Mayflower,Drive,Lampe ,65681,8,36.6026193,-93.49420517,355 Mayflower Dr
+1661.0,MO H,,Lampe ,65681,8,36.5732983,-93.45964121,1661 State Hwy H
+491.0,Trellis,Drive,Lampe ,65681,8,36.53674495,-93.48468925,491 Trellis Dr
+724.0,Will,Road,Lampe ,65681,8,36.54037129,-93.43913056,724 Will Rd
+724.0,Will,Road,Lampe ,65681,8,36.54037129,-93.43913056,724 Will Rd
+418.0,Briar Cliff,Road,Lampe ,65681,9,36.57141376,-93.47735092,418 Briar Cliff Rd
+172.0,Indian Cove,Drive,Lampe ,65681,9,36.56656774,-93.47799578,172 Indian Cove Rd
+211.0,Indian Cove,Drive,Lampe ,65681,9,36.567687,-93.478501,211 Indian Cove 
+211.0,Indian Cove,Drive,Lampe ,65681,9,36.567687,-93.478501,211 Indian Cove 
+50.0,Kimberling City Center,Lane,Kimberling City,65686,9,36.6303926,-93.4231488,P. O. Box 253
+56.0,Lois,Lane,Lampe ,65681,9,36.56666409,-93.47594705,56 Lois Lane
+56.0,Lois,Lane,Lampe ,65681,9,36.56666409,-93.47594705,56 Lois Lane
+59.0,Lois,Lane,Lampe ,65681,9,36.56683309,-93.47593344,59 Lois Ln
+74.0,W View,Drive,Lampe ,65681,9,36.56770332,-93.47626425,74 West View Dr
+74.0,W View,Drive,Lampe ,65681,9,36.56770332,-93.47626425,74 West View Dr
+418.0,Briar Cliff,Road,Lampe ,65681,10,36.57141376,-93.47735092,418 Briar Cliff Rd
+691.0,Briar Cliff,Road,Lampe ,65681,10,36.56894813,-93.47526353,691 Briar Cliff Rd
+774.0,Briar Cliff,Road,Lampe ,65681,10,36.566987,-93.475307,774 Briar Cliff Rd
+302.0,Briarwood,Drive,Lampe ,65681,10,36.568529,-93.47805,302 Briarwood Dr
+302.0,Briarwood,Drive,Lampe ,65681,10,36.568529,-93.47805,302 Briarwood Dr
+97.0,Indian Cove,Drive,Lampe ,65681,10,36.56649446,-93.47724052,97 Indian Cove Ln
+97.0,Indian Cove,Drive,Lampe ,65681,10,36.56649446,-93.47724052,97 Indian Cove Ln
+190.0,Indian Cove,Drive,Lampe ,65681,10,36.56664552,-93.47812973,190 Indian Cove
+190.0,Indian Cove,Drive,Lampe ,65681,10,36.56664552,-93.47812973,190 Indian Cove
+50.0,Kimberling City Center,Lane,Kimberling City,65686,10,36.6303926,-93.4231488,P O Box 495
+940.0,Alyeska Point,Road,Lampe ,65681,11,36.58048741,-93.49492364,940 Alyeska Pt 
+940.0,Alyeska Point,Road,Lampe ,65681,11,36.58048741,-93.49492364,940 Alyeska Pt 
+60.0,Jan,Lane,,65681,11,36.57205977016696,-93.44677582980262,126 Owen Trail
+231.0,Jan,Lane,Lampe ,65681,11,36.57346979,-93.44468993,231 Kingsgate 
+231.0,Jan,Lane,Lampe ,65681,11,36.57346979,-93.44468993,231 Kingsgate 
+1116.0,Jan,Lane,Lampe ,65681,11,36.583318,-93.444205,1116 Kingsgate 
+1116.0,Jan,Lane,Lampe ,65681,11,36.583318,-93.444205,1116 Kingsgate 
+1500.0,Jan,Lane,Lampe ,65681,11,36.582316,-93.442447,1500 Kingsgate
+1500.0,Jan,Lane,Lampe ,65681,11,36.582316,-93.442447,1500 Kingsgate
+247.0,Rollin Acres,Road,Reeds Spring,65737,11,36.66885157,-93.39745998,247 Rollin Acres
+273.0,Jan,Lane,Lampe ,65681,12,36.57365037,-93.44431996,273 Kingsgate 
+481.0,Jan,Lane,Lampe ,65681,12,36.57816539,-93.44025813,481 Kingsgate
+481.0,Jan,Lane,Lampe ,65681,12,36.57816539,-93.44025813,481 Kingsgate
+742.0,Jan,Lane,Lampe ,65681,12,36.57730328,-93.44033569,742 Kingsgate
+742.0,Jan,Lane,Lampe ,65681,12,36.57730328,-93.44033569,742 Kingsgate
+1245.0,Jan,Lane,Lampe ,65681,12,36.583318,-93.444205,1245 Kingsgate
+1245.0,Jan,Lane,Lampe ,65681,12,36.583318,-93.444205,1245 Kingsgate
+458.0,Navajo,Trail,Kimberling City,65686,12,36.6205272,-93.43450681,458 Navajo Trail
+458.0,Navajo,Trail,Kimberling City,65686,12,36.6205272,-93.43450681,458 Navajo Trail
+410.0,76-60 b,,Branson,65616,13,36.6555122,-93.3420415,410 John the Diver Trl
+220.0,Cabana,Court,,65737,13,36.684262,-93.313559,220 Canana Dr
+90.0,Irish Hills,Boulevard,Kimberling City,65686,13,36.65111213,-93.44759173,90 Irish Hill Blvd
+22485.0,Main,Street,,65737,13,0.0,0.0,22485 Main
+111.0,MO H,,Lampe ,65681,13,36.5643982,-93.43930246,111 State Hwy H
+111.0,MO H,,Lampe ,65681,13,36.5643982,-93.43930246,111 State Hwy H
+320.0,Raspberry,Road,Reeds Spring,65737,13,36.77869051,-93.36533197,320 Raspberry
+820.0,Tablerock,Circle,Branson,65616,13,36.62211514,-93.34296473,820 Tablerock Cir
+105.0,turtledove,Lane,,65681,13,36.596065061767746,-93.50293999103984,105 Turtle Dove Ln
+152.0,Point Sixteen,Lane,Lampe ,65681,14,36.5970442,-93.50413471,152 Point 16 Lane
+41.0,Southwood,Circle,Lampe ,65681,14,36.597575,-93.4982,41 Southwood Cir
+41.0,Southwood,Circle,Lampe ,65681,14,36.597575,-93.4982,41 Southwood Cir
+141.0,Southwood,Circle,Lampe ,65681,14,36.59899096,-93.49841044,141 Southwood Cir
+263.0,Southwood,Circle,Lampe ,65681,14,36.59803857,-93.49734603,263 Southwood Cir
+298.0,Southwood,Circle,Lampe ,65681,14,36.5985105,-93.49722235,298 Southwood Cir
+142.0,turtledove,Lane,,65681,14,36.596421936508335,-93.50368955638183,142 Turtle Dove Ln
+142.0,turtledove,Lane,,65681,14,36.596421936508335,-93.50368955638183,142 Turtle Dove Ln
+157.0,turtledove,Lane,,65681,14,36.59656599012835,-93.50356266211256,157 Turtle Dove Ln
+157.0,turtledove,Lane,,65681,14,36.59656599012835,-93.50356266211256,157 Turtle Dove Ln
+455.0,Backwood,,Lampe ,65681,15,36.573554,-93.470758,455 Backwood 
+50.0,Kimberling City Center,Lane,Kimberling City,65686,15,36.63044,-93.42259,P. O. Box 841
+13.0,Lakeshore,Drive,Kimberling City,65686,15,36.644864,-93.421919,13 A Lakeshore Dr
+317.0,MO H,,Lampe ,65681,15,36.565784,-93.443375,317 State Hwy H
+649.0,Norwood,Road,Lampe ,65681,15,36.59717185,-93.49975785,649 Norwood Rd
+1055.0,Norwood,Road,Lampe ,65681,15,36.59466896,-93.50277894,1055 Norwood Rd
+1055.0,Norwood,Road,Lampe ,65681,15,36.59466896,-93.50277894,1055 Norwood Rd
+240.0,Point Sixteen,Lane,Lampe ,65681,15,36.59760562,-93.5053137,240 Point Sixteen
+244.0,Point Sixteen,Lane,Lampe ,65681,15,36.59763781,-93.50529274,244 Point Sixteen
+378.0,Shiloh,Lane,Kimberling City,65686,15,36.62751546,-93.44269867,378 Shiloh Ln
+345.0,Briar Cliff,Road,Lampe ,65681,16,36.57160914,-93.47751822,345 Briar Cliff Rd
+1027.0,MO H,,Lampe ,65681,16,36.57173317,-93.45117389,1027 State Hwy H
+1027.0,MO H,,Lampe ,65681,16,36.57173317,-93.45117389,1027 State Hwy H
+2456.0,Nauvoo,Road,Lampe ,65681,16,36.53745597,-93.51132971,2456 Nauvoo Rd
+1228.0,Persimmon Hill,Lane,Lampe ,65681,16,36.53255417,-93.51604268,1228 Persimmon Ln
+1228.0,Persimmon Hill,Lane,Lampe ,65681,16,36.53255417,-93.51604268,1228 Persimmon Ln
+238.0,Pokeberry,Lane,Lampe ,65681,16,36.58595732,-93.42287464,238 Pokeberry
+238.0,Pokeberry,Lane,Lampe ,65681,16,36.58595732,-93.42287464,238 Pokeberry
+1829.0,Pokeberry,Lane,Lampe ,65681,16,36.60107352,-93.41179621,1829 Pokeberry Ln
+400.0,Will,Road,Lampe ,65681,16,36.540638,-93.434434,160 Old Horseshoe Ridge 
+179.0,Cactus,Lane,Branson West,65737,17,36.66937187,-93.40232219,179 Cactus Lane
+1200.0,Everest,Road,Galena,65656,17,36.684484,-93.484053,1200 Everest Rd
+284.0,Martin Hollow,Road,Galena,65656,17,36.7679297,-93.47991814,284 Martin Hollow Rd
+3639.0,MO 248,,Galena,65656,17,36.81940254,-93.52029018,3639 W State Hwy 
+34134.0,MO 413,,Galena,65656,17,36.83387488,-93.52161108,34134 State Hwy 413
+34134.0,MO 413,,Galena,65656,17,36.83387488,-93.52161108,34134 State Hwy 413
+12730.0,MO 76,,Cape Fair,65624,17,36.73237976,-93.57193409,12730 W. State Hwy 76
+307.0,Olive,Street,Crane,65633,17,36.90455127,-93.56879806,307 Olive St
+134.0,State Highway KK,,Galena,65656,17,36.82397271,-93.38491916,134 St Hwy KK
+704.0,Tablerock,Circle,Branson,65616,17,36.6211662,-93.34447189,704 Tablerock Cir
+550.0,August,Drive,Crane,65633,18,36.859817,-93.571473,550 Kid Run Rd
+501.0,Jan,Lane,Lampe ,65681,18,36.57847403,-93.44033689,501 Kingsgate 
+41269.0,MO 413,,Galena,65656,18,36.8088763,-93.4631292,41269HWY 413
+220.0,MO AA,,Galena,65656,18,36.82327038,-93.4955863,220 State Hwy AA
+401.0,North Hemphill,Avenue,Crane,65633,18,36.907588,-93.573769,401 N Hemphill 
+79.0,Ollie Farm,Lane,Lampe ,65681,18,36.58145725,-93.50076178,79 Oljie Farm Ln
+3636.0,Railey Creek,Road,Galena,65656,18,36.789077,-93.405993,3636 Railey Creek Rd
+1331.0,Wheeler Branch,Road,Crane,65633,18,36.86155078,-93.51885213,1331 Wheeler Branch
+30.0,Whitetail,Road,Lampe ,65681,18,36.51838959,-93.49151894,30 Whitetail Rd
+540.0,Yocum Pond,Road,Galena,65656,18,36.74411764,-93.39907787,540 Yocum Pd Rd
+1338.0,Blackberry,Lane,Crane,65633,19,36.90745615,-93.55299263,1338 Blackberry Ln
+368.0,Blunk,Road,Galena,65656,19,36.80062134,-93.48069841,368 Blunk Rd
+1361.0,Boston Mountain,Road,Crane,65633,19,36.90102817,-93.51055388,1361 Boston Mtn Rd
+1284.0,Burr Oak,Drive,Crane,65633,19,36.8677088,-93.562924,1284 Burr Oak Dr
+56.0,Meltons Peninsula,Road,Cape Fair,65624,19,36.72517376,-93.52298955,56 Meltons Pen 
+708.0,MO BB,,Crane,65633,19,36.90368493,-93.56390145,708 State Hwy BB
+103.0,North Hemphill,Avenue,Crane,65633,19,36.90505876,-93.57548827,103 N Hemphill
+805.0,Ozark,Road,Crane,65633,19,36.92531266,-93.5241665,805 Ozark Rd
+721.0,Paris,Street,Clever,65631,19,36.98602827,-93.44281805,721 Paris St
+3344.0,Railey Creek,Road,Galena,65656,19,36.79441304,-93.41188337,3344 Railey Creek Rd
+274.0,Micahs,Crossing,Reeds Spring,65737,20,36.731643,-93.387875,274 Micahs Crossing
+274.0,Micahs,Crossing,Reeds Spring,65737,20,36.731643,-93.387875,274 Micahs Crossing
+300.0,Micahs,Crossing,Reeds Spring,65737,20,36.73164913,-93.38810268,300 Micahs Crossing
+300.0,Micahs,Crossing,Reeds Spring,65737,20,36.73164913,-93.38810268,300 Micahs Crossing
+300.0,Micahs,Crossing,Reeds Spring,65737,20,36.73164913,-93.38810268,300 Micahs Crossing
+349.0,Micahs,Crossing,Reeds Spring,65737,20,36.73133868,-93.38864161,349 Micahs Crossing
+349.0,Micahs,Crossing,Reeds Spring,65737,20,36.73133868,-93.38864161,349 Micahs Crossing
+363.0,Micahs,Crossing,Reeds Spring,65737,20,36.73118213,-93.38864141,363 Micahs Crossing
+363.0,Micahs,Crossing,Reeds Spring,65737,20,36.73118213,-93.38864141,363 Micahs Crossing
+374.0,Micahs,Crossing,Reeds Spring,65737,20,36.73127837,-93.38840813,374 Micahs Crossing
+57.0,Eagle,Drive,Reeds Spring,65737,21,36.66211314,-93.45321465,57 Eagle Dr
+109.0,Fritts,Way,Reeds Spring,65737,21,36.7120831,-93.37675695,109 Fritts Way
+331.0,Hunters,Drive,Reeds Spring,65737,21,36.75475763,-93.43248466,331 Hunters Dr
+174.0,Lakeview,Lane,Galena,65656,21,36.78515833,-93.5025433,174 Lakeview  Ln
+183.0,Leighs,Way,Reeds Spring,65737,21,36.731848,-93.387814,183 Leigns Way
+287.0,Micahs,Crossing,Reeds Spring,65737,21,36.73182573,-93.38833703,287 Micahs Crossing
+287.0,Micahs,Crossing,Reeds Spring,65737,21,36.73182573,-93.38833703,287 Micahs Crossing
+19660.0,MO 413,,Reeds Spring,65737,21,36.71395749,-93.37425867,19660 State Hwy 413
+30.0,Tightwad Estates,Lane,,65686,21,36.61033175602862,-93.45675901528354,97 Ramonaln
+60.0,Chad,Road,Galena,65656,22,36.65313704,-93.51348517,60 Chad Rd
+32.0,Hillcrest,Drive,Kimberling City,65686,22,36.64566941,-93.43113596,32 Hill Crest Dr
+333.0,Micahs,Crossing,Reeds Spring,65737,22,36.73151759,-93.38864184,333 Micahs Crossing
+382.0,Micahs,Crossing,Reeds Spring,65737,22,36.73120829,-93.38840858,382 Micahs Crossing
+382.0,Micahs,Crossing,Reeds Spring,65737,22,36.73120829,-93.38840858,382 Micahs Crossing
+253.0,Plateau,Lane,Kimberling City,65686,22,36.62881676,-93.45366825,253 Plateau
+6.0,Chevy,Lane,Lampe ,65681,23,36.56654003,-93.44325161,6 Chev Ln
+27.0,Jan,Lane,Lampe ,65681,23,36.57129575,-93.44712043,27 Kingsgate Rd
+64.0,L Garrison,Drive,Lampe ,65681,23,36.56804238,-93.4329189,64 L. Garrison
+2745.0,MO 13,,Lampe ,65681,23,36.51970522,-93.41953625,2745 State Hey 13
+5769.0,MO 13,,Lampe ,65681,23,36.55310409,-93.43680094,5769 State Hwy 13 
+5769.0,MO 13,,Lampe ,65681,23,36.55310409,-93.43680094,5769 State Hwy 13 
+428.0,Persimmon Hill,Lane,Lampe ,65681,23,36.53182101,-93.50231271,428 Persimmon Hill 
+604.0,Quiet Acres,Road,,65681,23,36.54304988720126,-93.479785122663,604 Quiet Acres
+200.0,Timeline,Road,Lampe ,65681,23,36.56775,-93.483194,200 Timeline Rd
+324.0,Wild Praire,Lane,Lampe ,65681,23,36.55935158,-93.44325498,324 Wild Poouvie
+959.0,Cron,Road,Lampe ,65681,24,36.54388833,-93.45716933,959 Cron Rd
+829.0,Doc Miller,Road,Blue Eye,65611,24,36.502346,-93.418544,829 Doc Miller Rd
+150.0,Grace Chapel,Road,Blue Eye,65611,24,36.51663183,-93.38383954,150 Grace Chaple
+61.0,Lake Hills,Point,Lampe ,65681,24,36.54730609,-93.42923117,61 Lake Hill Point
+1579.0,Lake Hills,Point,Lampe ,65681,24,36.56233751,-93.41249261,1579 Lake Hills Point 
+1364.0,MO 13,,Blue Eye,65611,24,36.51230236,-93.39916621,1364 State Hwy 13
+1429.0,MO 13,,Blue Eye,65611,24,36.51235486,-93.40293286,1429 State Hwy 13
+1438.0,MO 13,,Blue Eye,65611,24,36.51251796,-93.40281553,1438 State Hwy 13
+1742.0,MO 13,,Blue Eye,65611,24,36.51259209,-93.40782478,1742 State Hwy 13
+5226.0,MO 86,,Blue Eye,65611,24,36.53070776,-93.32044251,5226 W State Hwy 86
+155.0,Clearview,Drive,Blue Eye,65611,25,36.53257961,-93.37563342,155 Clearview Dr 1
+35.0,Divine,Way,Blue Eye,65611,25,36.53602009,-93.37149926,35 Divine way 
+180.0,Grace Chapel,Road,Blue Eye,65611,25,36.5179394,-93.3842518,180 Grace Chaple 
+180.0,Grace Chapel,Road,Blue Eye,65611,25,36.5179394,-93.3842518,180 Grace Chaple 
+180.0,Grace Chapel,Road,Blue Eye,65611,25,36.5179394,-93.3842518,180 Grace Chaple 
+180.0,Grace Chapel,Road,Blue Eye,65611,25,36.5179394,-93.3842518,180 Grace Chaple 
+180.0,Grace Chapel,Road,Blue Eye,65611,25,36.5179394,-93.3842518,180 Grace Chaple 
+180.0,Grace Chapel,Road,Blue Eye,65611,25,36.5179394,-93.3842518,180 Grace Chaple 
+180.0,Grace Chapel,Road,Blue Eye,65611,25,36.5179394,-93.3842518,180 Grace Chaple 
+53.0,Spring,Road,Blue Eye,65611,25,36.57353862,-93.49586993,53 Spring Rd
+49.0,Fellowship,Lane,Blue Eye,65611,26,36.52053885,-93.37706908,49 Fellowship 
+95.0,Fellowship,Lane,Blue Eye,65611,26,36.52127405,-93.37727156,95 Fellowship Rd
+141.0,Fellowship,Lane,Blue Eye,65611,26,36.5210055,-93.3774166,141 Fellowship 
+180.0,Grace Chapel,Road,Blue Eye,65611,26,36.5179394,-93.3842518,180 Grace Chaple 
+180.0,Grace Chapel,Road,Blue Eye,65611,26,36.5179394,-93.3842518,180 Grace Chaple 
+180.0,Grace Chapel,Road,Blue Eye,65611,26,36.5179394,-93.3842518,180 Grace Chaple 
+180.0,Grace Chapel,Road,Blue Eye,65611,26,36.5179394,-93.3842518,180 Grace Chaple 
+180.0,Grace Chapel,Road,Blue Eye,65611,26,36.5179394,-93.3842518,180 Grace Chaple 
+1114.0,MO 13,,Blue Eye,65611,26,36.51130048,-93.39550119,1114 State Hwy 13
+188.0,Youngblood,Drive,Blue Eye,65611,26,36.5391331,-93.36058388,188 Youngblood Dr
+205.0,Glen Oaks,Drive,Blue Eye,65611,27,36.53636676,-93.32687531,205 Glen Oaks 
+104.0,Huskey,Drive,Blue Eye,65611,27,36.502585,-93.39825727,104 Huskey
+74.0,Lake Hills,Point,Lampe ,65681,27,36.557869,-93.418285,74 Lake Hills Pt Lane
+74.0,Lake Hills,Point,Lampe ,65681,27,36.557869,-93.418285,74 Lake Hills Pt Lane
+10532.0,State Highway 86,,Blue Eye,65611,27,36.53055974976398,-93.39378291135884,10532 E State Hwy 86
+753.0,Schodack,Road,Lampe ,65681,28,36.572405,-93.4967131,753 Schodack Rd
+146.0,Hodges,Lane,,65737,29,36.666006665675525,-93.41869234581075,146 Shadow Valley Dr
+146.0,Hodges,Lane,,65737,29,36.666006665675525,-93.41869234581075,146 Shadow Valley Dr
+1611.0,Lane Branch,Road,Crane,65633,29,36.9216454,-93.48030432,1611 Lane branch Rd
+263.0,Mayden,Lane,,65616,29,36.653886,-93.2190606,263 Mayden Ln
+35.0,North Caps Cove,Lane,Branson,65616,29,36.62402826,-93.34863941,35 N Caps Cove 
+8.0,Pine,Lane,Kimberling City,65686,29,36.63615173,-93.43454487,8 Pine Lane
+80.0,Spinnaker,Lane,Kimberling City,65686,29,36.64175437,-93.4127625,80 Spinnaken
+934.0,Tablerock,Circle,Branson,65616,29,36.62323614,-93.3416189,934 Tablerock Cir
+496.0,Tunnel,Drive,Reeds Spring,65737,29,36.71765274,-93.36723831,496 Tunnel Dr
+24.0,Village,Trail,Branson ,65616,29,36.63524342,-93.34286332,24 Village Trail #1709
+49.0,Fellowship,Lane,Blue Eye,65611,30,36.52053885,-93.37706908,49 Zion Rd
+180.0,Grace Chapel,Road,Blue Eye,65611,30,36.5179394,-93.3842518,180 Grace Chaple 
+180.0,Grace Chapel,Road,Blue Eye,65611,30,36.5179394,-93.3842518,180 Grace Chaple 
+180.0,Grace Chapel,Road,Blue Eye,65611,30,36.5179394,-93.3842518,180 Grace Chaple 
+180.0,Grace Chapel,Road,Blue Eye,65611,30,36.5179394,-93.3842518,180 Grace Chaple 
+180.0,Grace Chapel,Road,Blue Eye,65611,30,36.5179394,-93.3842518,180 Grace Chaple 
+1091.0,Peace in the Valley,Road,Blue Eye,65611,30,36.5237559,-93.3776603,1091 Peace In Valley Rd
+1091.0,Peace in the Valley,Road,Blue Eye,65611,30,36.5237559,-93.3776603,1091 Peace In Valley Rd
+307.0,Prayer Garden,Lane,Lampe ,65681,30,36.54592766,-93.4749697,307 Prayer Garden 
+186.0,Rejoice,Lane,Blue Eye,65611,30,36.51601528,-93.38207583,186 Rejoice 
+393.0,Alyeska Point,Road,Lampe ,65681,31,36.58072931,-93.48657978,393 Alyeska 
+1191.0,Broken Arrow,Road,Lampe ,65681,31,36.56022855,-93.46287531,1191 Broken Arrow 
+327.0,Fairwood,Road,Lampe ,65681,31,36.56970936,-93.48571318,327 Fairwood Rd
+648.0,Labradore,Lane,,65681,31,36.5664997155001,-93.48408908678012,648 Labrador
+5313.0,MO 13,,Lampe ,65681,31,36.54759717,-93.43181566,5313 State Hwy 13
+6463.0,MO 13,,Lampe ,65681,31,36.5626635,-93.4390588,6463 State Hwy 13
+6619.0,MO 13,,Lampe ,65681,31,36.5645281,-93.4375294,6619 State Hwy 13
+200.0,Timeline,Road,Lampe ,65681,31,36.56775,-93.483194,200 Timeline Rd
+200.0,Timeline,Road,Lampe ,65681,31,36.56775,-93.483194,200 Timeline Rd
+465.0,Uniqueville,Lane,Lampe ,65681,31,36.59275362,-93.49708207,465 Uniqueville
+76.0,Bradford Place,,Branson,65616,32,36.63632338,-93.32751908,76 Bradford Place #6 
+780.0,Cron,Road,Lampe ,65681,32,36.543427,-93.455032,780 Cron Rd
+780.0,Cron,Road,Lampe ,65681,32,36.543427,-93.455032,780 Cron Rd
+9.0,Hickory,Drive,Kimberling City,65686,32,36.64156722,-93.42891246,9 Hickory Dr
+9.0,Hickory,Drive,Kimberling City,65686,32,36.64156722,-93.42891246,9 Hickory Dr
+187.0,Melody Manor,Lane,Reeds Spring,65737,32,36.659223,-93.455957,187 Melody Mannor
+6619.0,MO 13,,Lampe ,65681,32,36.5645281,-93.4375294,6619 State Hwy 13
+50.0,MO H,,Lampe ,65681,32,36.56420111,-93.43933265,50 State Hwy H
+16.0,Spinwheel,Lane,Blue Eye,65611,32,36.53457931,-93.31568792,16 Spinwheel Lane
+1121.0,State Line,Road,Blue Eye,65611,32,36.49892079,-93.41584455,1121 State Line Rd
+49.0,Fellowship,Lane,Blue Eye,65611,33,36.52053885,-93.37706908,49 Fellowship Lane
+49.0,Fellowship,Lane,Blue Eye,65611,33,36.52053885,-93.37706908,49 Zron rd
+74.0,Fellowship,Lane,Blue Eye,65611,33,36.5209019,-93.3776598,74 Fellowship 
+180.0,Grace Chapel,Road,Blue Eye,65611,33,36.5179394,-93.3842518,180 Grace Chaple 
+180.0,Grace Chapel,Road,Blue Eye,65611,33,36.5179394,-93.3842518,180 Grace Chaple 
+180.0,Grace Chapel,Road,Blue Eye,65611,33,36.5179394,-93.3842518,180 Grace Chaple 
+180.0,Grace Chapel,Road,Blue Eye,65611,33,36.5179394,-93.3842518,180 Grace Chaple 
+884.0,Peace in the Valley,Road,Blue Eye,65611,33,36.5237559,-93.3776603,884 Peace in the Valley
+15.0,Elm,Drive,Kimberling City,65686,34,36.6409672,-93.4292898,15 Elm Dr
+50.0,Kimberling City Center,Lane,Kimberling City,65686,34,36.63044,-93.42259,P O Box 152
+103.0,Oak,Drive,Kimberling City,65686,34,36.64485746,-93.41041059,103 Oak Dr
+7.0,Oak Shadow,Drive,Kimberling City,65686,34,36.64519971,-93.41021784,7 Oak Shadow 
+8.0,Oak Shadow,Drive,Kimberling City,65686,34,36.64536679,-93.4101892,8 Oak Shadow 
+38.0,Oak Shadow,Drive,Kimberling City,65686,34,36.6452213,-93.40879067,38 Oak Shadow 
+349.0,Port,Drive,Kimberling City,65686,34,36.640926,-93.411845,349 Port Dr #7
+9.0,Port Holiday,Drive,Kimberling City,65686,34,36.62977794,-93.42543225,9 Port Holiday 
+12.0,Summit,Drive,Kimberling City,65686,34,36.65720985,-93.42020826,12 Summit Dr
+210.0,Sunset,Cove,Branson,65616,34,36.63654679,-93.32896093,210 Sunset Cove  #321
+1205.0,Eagle,Drive,,65737,35,0.0,0.0,1205 Eaglewood
+10.0,Evergreen,Lane,Branson West,65737,35,36.618851,-93.376754,10 Evergreen
+42.0,Irish Hills,Boulevard,Kimberling City,65686,35,36.65212566,-93.44103192,42 IRISH Hills 
+42.0,Irish Hills,Boulevard,Kimberling City,65686,35,36.65212566,-93.44103192,42 IRISH Hills 
+1895.0,Mule Barn,Drive,Cape Fair,65624,35,36.724898,-93.488171,1895 Mule Barn Dr
+1895.0,Mule Barn,Drive,Cape Fair,65624,35,36.724898,-93.488171,1895 Mule Barn Dr
+109.0,starrville,Lane,Branson West,65737,35,36.663758,-93.419864,109 Tony Court
+545.0,Stone,Road,Kimberling City,65686,35,36.62383624,-93.44786711,545 Stone Rd
+545.0,Stone,Road,Kimberling City,65686,35,36.62383624,-93.44786711,545 Stone Rd
+319.0,Whitefish,bay,,65686,35,36.6071215,-93.4252538,319 White Fish Ln
+377.0,Waterview,Lane,Lampe ,65681,36,36.60254939,-93.49720115,377 Waterview Ln
+417.0,Waldon Ridge,,Lampe ,65681,37,36.52837062,-93.47974598,417 Waldon Ridge
+417.0,Waldon Ridge,,Lampe ,65681,37,36.52837062,-93.47974598,417 Waldon Ridge
+471.0,Waldon Ridge,,Lampe ,65681,37,36.527909,-93.48047,471 Waldon Ridge
+489.0,Waldon Ridge,,Lampe ,65681,37,36.52781328,-93.48059615,489 Waldon Ridge
+489.0,Waldon Ridge,,Lampe ,65681,37,36.52781328,-93.48059615,489 Waldon Ridge
+504.0,Waldon Ridge,,Lampe ,65681,37,36.52775148,-93.48037847,504 Waldon Ridge 
+504.0,Waldon Ridge,,Lampe ,65681,37,36.52775148,-93.48037847,504 Waldon Ridge 
+538.0,Waldon Ridge,,Lampe ,65681,37,36.5274241,-93.48079892,538 Waldon Ridge 
+538.0,Waldon Ridge,,Lampe ,65681,37,36.5274241,-93.48079892,538 Waldon Ridge 
+694.0,Waldon Ridge,,Lampe ,65681,37,36.52646216,-93.48317344,694 Waldon Ridge 
+15.0,Catamount,Boulevard,Branson West,65737,38,36.716400898372584,-93.36911054931905,15 Catmount
+108.0,Grace Chapel,Road,Blue Eye,65611,38,36.51740721,-93.38338784,108 Grace Chaple
+180.0,Grace Chapel,Road,Blue Eye,65611,38,36.5179394,-93.3842518,180 Grace Chaple 
+459.0,Heather,Row,Reeds Spring,65737,38,36.64694101,-93.36961282,459 Heather Rd
+205.0,Mayflower,Drive,Lampe ,65681,38,36.59890929,-93.49373677,205 Mayflower Dr
+205.0,Mayflower,Drive,Lampe ,65681,38,36.59890929,-93.49373677,205 Mayflower Dr
+1004.0,Peace in the Valley,Road,Blue Eye,65611,38,36.5237559,-93.3776603,1004 Peace In the Valley
+270.0,Wildflower,Road,Kimberling City,65686,38,36.6464126,-93.46580901,270 Wildflower
+270.0,Wildflower,Road,Kimberling City,65686,38,36.6464126,-93.46580901,270 Wildflower
+51.0,Bayview,Trail,Lampe ,65681,39,36.5880669,-93.4360228,51 Bayview 
+373.0,Forest,Lane,Kimberling City,65686,39,36.617408,-93.44110619,373 Forrest Ln
+3.0,Hillcrest,Drive,Kimberling City,65686,39,36.64668108,-93.4296571,3 Hillcrest Dr
+60.0,Jan,Lane,,65681,39,36.57205977016696,-93.44677582980262,126 Owen Trail
+43.0,Marina,Way,Kimberling City,65686,39,36.63642918,-93.41690375,43 Marina Way
+228.0,Pinnacle Shores,Drive,Lampe ,65681,39,36.5902997,-93.4329882,228 Pinnacle Shores
+249.0,Port,Drive,Kimberling City,65686,39,36.62812076,-93.42601681,249 Port #4 
+249.0,Port,Drive,Kimberling City,65686,39,36.62812076,-93.42601681,249 Port #4 
+300.0,Port,Drive,Kimberling City,65686,39,36.641171,-93.411939,300 Port # 2
+10.0,Baywood,Circle,Branson West,65737,40,36.60694122,-93.3734503,10 Baywood Cir
+2.0,Northwoods,Drive,Kimberling City,65686,40,36.658141,-93.425932,2B Northwood Dr
+249.0,Port,Drive,Kimberling City,65686,40,36.62812076,-93.42601681,249 Port #6
+249.0,Port,Drive,Kimberling City,65686,40,36.62812076,-93.42601681,249 Port Dr
+249.0,Port,Drive,Kimberling City,65686,40,36.62812076,-93.42601681,249 Port Dr
+112.0,Spinnaker,Lane,Kimberling City,65686,40,36.64183671,-93.41206606,112 Spinmaker
+1938.0,State Highway Y,,Galena,65656,40,36.71805069,-93.44601534,1938 Hwy Y 
+1069.0,Tablerock,Circle,Branson ,65616,40,36.62474609,-93.34082237,1069 Tablerock Cir
+751.0,76-60 b,,Branson,65616,41,36.65464224,-93.34263288,751 Jon the Driver 
+148.0,Crown,Drive,Branson West,65737,41,36.67210747,-93.36536605,148 Crown Dr
+1652.0,Indian Point,Road,Branson,65616,41,36.65022222,-93.34150079,1652 Indian Pt Rd
+639.0,Jakes Creek,Trail,Branson,65616,41,36.64876932,-93.33532655,639 Jakes Creek Reail
+425.0,Longbend,Road,Galena,65656,41,36.70017755,-93.50547015,425 Long Bend Rd
+195.0,Mayden,Lane,,65616,41,36.653886,-93.2190606,195 Mayden Lane
+596.0,Old Mill,Road,Lampe ,65681,41,36.584063,-93.456214,596 Old Mill Rd
+258.0,Sundance,Road,Cape Fair,65624,41,36.71638311,-93.50783213,258 Sundance Rd
+864.0,Tablerock,Circle,Branson,65616,41,36.62253305,-93.34243329,864 Table Rock Cir
+400.0,Will,Road,Lampe ,65681,41,36.540638,-93.434434,160 Old Horseshoe Ridge 
+,Armadillo,Lane,Reeds Spring,65737,42,36.672399,-93.408496,Armadillo Lne
+29.0,Big John,Road,,65737,42,36.58181783060401,-93.38368515531553,29 Big John Ln
+84.0,Goldwater,lane,Reeds Spring,65737,42,36.67399537,-93.45692065,84 Goldwater Ln
+121.0,Howard,Circle,Cape Fair,65624,42,36.72378,-93.486221,121 Howard Dr
+801.0,Jackson Hollow,Road,Galena,65656,42,36.6749343,-93.48146284,801 Jackson Hollow 
+99.0,Lost Land,Lane,Galena,65656,42,36.74805427,-93.39898109,99 LostLand Ln
+8116.0,MO V,,Galena,65656,42,36.85572865,-93.40359452,8116 State Hwy V
+7.0,Port Holiday,Drive,Kimberling City,65686,42,36.62978346,-93.42541794,7 Port  Holiday Dr
+7.0,Port Holiday,Drive,Kimberling City,65686,42,36.62978346,-93.42541794,7 Port  Holiday Dr
+285.0,Welch,Road,Reeds Spring,65737,42,36.66763023,-93.44353331,285 Welch 
+10.0,Backwood,,Branson West,65737,43,36.57780519,-93.46885752,10 Batwood Cir
+137.0,Rainbow Hill,Lane,Reeds Spring,65737,43,36.73626443,-93.38579039,137 Raunbow Hill
+90.0,September Falls,Drive,Branson West,65737,43,36.60845967,-93.37762444,90 September Falls
+285.0,September Falls,Drive,Branson West,65737,43,36.607967,-93.373833,285 September Falls 
+285.0,September Falls,Drive,Branson West,65737,43,36.607967,-93.373833,285 September Falls 
+292.0,September Falls,Drive,Branson West,65737,43,36.60735441,-93.37362172,292 September Falls 
+488.0,September Falls,Drive,Branson West,65737,43,36.60589712,-93.37144204,488 September Falls
+488.0,September Falls,Drive,Branson West,65737,43,36.60589712,-93.37144204,488 September Falls
+53.0,Village,Point,Kimberling City,65686,43,36.61471347,-93.45277144,53 Village Point
+27.0,Woodland,Avenue,Kimberling City,65686,43,36.6373913,-93.42146707,27 Woodland Ave 
+90.0,September Falls,Drive,Reeds Spring,65737,44,36.60845967,-93.37762444,90 September Falls
+215.0,September Falls,Drive,Branson West,65737,44,36.60853116,-93.3748001,215 September Falls
+215.0,September Falls,Drive,Branson West,65737,44,36.60853116,-93.3748001,215 September Falls
+369.0,September Falls,Drive,Reeds Spring,65737,44,36.60667986,-93.3727324,369 September Falls 
+444.0,September Falls,Drive,Reeds Spring,65737,44,36.60594615,-93.37159051,444 September Falls
+444.0,September Falls,Drive,Reeds Spring,65737,44,36.60594615,-93.37159051,444 September Falls
+485.0,September Falls,Drive,Reeds Spring,65737,44,36.60607906,-93.3713795,485 September Falls
+485.0,September Falls,Drive,Reeds Spring,65737,44,36.60607906,-93.3713795,485 September Falls
+485.0,September Falls,Drive,Reeds Spring,65737,44,36.60607906,-93.3713795,485 September Falls
+485.0,September Falls,Drive,Reeds Spring,65737,44,36.60607906,-93.3713795,485 September Falls
+120.0,bluesky,Trails,,65737,45,36.612985086245814,-93.36024453160819,120 Blue Sky Trails 
+64.0,Ridgemont,Circle,Branson West,65737,45,36.607461,-93.371119,64 Ridgemount Cir
+64.0,Ridgemont,Circle,Branson West,65737,45,36.607461,-93.371119,64 Ridgemount Cir
+23.0,September Falls,Drive,Reeds Spring,65737,45,36.60865597,-93.37765533,23 September Falls
+23.0,September Falls,Drive,Reeds Spring,65737,45,36.60865597,-93.37765533,23 September Falls
+51.0,September Falls,Drive,Reeds Spring,65737,45,36.60856126,-93.37736577,51 September Falls 
+102.0,September Falls,Drive,Reeds Spring,65737,45,36.60843195,-93.37753825,102 September Falls
+102.0,September Falls,Drive,Reeds Spring,65737,45,36.60843195,-93.37753825,102 September Falls
+253.0,September Falls,Drive,Branson West,65737,45,36.60837177,-93.37433986,253 September Falls 
+253.0,September Falls,Drive,Branson West,65737,45,36.60837177,-93.37433986,253 September Falls 
+10.0,Baywood,Circle,Branson West,65737,46,36.60694122,-93.3734503,10Baywood Cir
+35.0,Catamaran,Drive,Kimberling City,65686,46,36.64428329,-93.41354192,35 Catamaran Dr
+27.0,Fade,Lane,Branson West,65737,46,36.68319594,-93.31520852,27 Fade Lane
+39.0,HILLtop,Drive,Kimberling City,65686,46,36.643585,-93.424896,39 HILL Top Dr
+128.0,Meadow Hills,Lane,Branson,65616,46,36.65515052,-93.33423288,128 Meadows Hill
+300.0,Port,Drive,Kimberling City,65686,46,36.641171,-93.411939,300 Port Dr Unit 2
+53.0,Victory,Lane,Reeds Spring,65737,46,36.66127197,-93.42020308,53 Victory Lane
+531.0,Dogwood Village,Lane,Lampe ,65681,47,36.57848787,-93.45625681,531 Dogwood Village
+1017.0,Dogwood Village,Lane,Lampe ,65681,47,36.58213291,-93.45125348,1017 Dogwood Village
+1017.0,Dogwood Village,Lane,Lampe ,65681,47,36.58213291,-93.45125348,1017 Dogwood Village
+1024.0,Dogwood Village,Lane,Lampe ,65681,47,36.58150255,-93.45177071,1024 Dogwood Village
+1041.0,Dogwood Village,Lane,Lampe ,65681,47,36.58234779,-93.45096507,1041 Dogwood Village
+1041.0,Dogwood Village,Lane,Lampe ,65681,47,36.58234779,-93.45096507,1041 Dogwood Village
+1498.0,Lancelot,Lane,Branson West,65737,47,36.631403,-93.386061,1498 Lancelot Lane
+203.0,Port Holiday,Drive,Kimberling City,65686,47,36.62846835,-93.42595649,203 Port Holiday 8-F
+12.0,Roxborough,Avenue,Branson West,65737,47,36.64363285,-93.36375788,12 F Roxborough Ave
+753.0,Santana,Circle,Reeds Spring,65737,47,36.65101693,-93.46524448,753 Santana Cir
+1093.0,Dogwood Village,Lane,Lampe ,65681,48,36.58229247,-93.45038576,1093 Dogwood Village
+1093.0,Dogwood Village,Lane,Lampe ,65681,48,36.58229247,-93.45038576,1093 Dogwood Village
+1275.0,Dogwood Village,Lane,Lampe ,65681,48,36.57886316,-93.45112169,1275 Dogwood Village
+1275.0,Dogwood Village,Lane,Lampe ,65681,48,36.57886316,-93.45112169,1275 Dogwood Village
+1317.0,Dogwood Village,Lane,Lampe ,65681,48,36.57848186,-93.45120669,1317Dogwood Village 
+1508.0,Dogwood Village,Lane,Lampe ,65681,48,36.57647959,-93.45176179,1508 Dogwood Village 
+1508.0,Dogwood Village,Lane,Lampe ,65681,48,36.57647959,-93.45176179,1508 Dogwood Village 
+112.0,Linden,Drive,Reeds Spring,65737,48,36.59231474,-93.395211,112 Linden Dr
+761.0,Mill Creek Shores,Lane,Lampe ,65681,48,36.58096825,-93.4590821,761 Mill Creek Shores Ln
+97.0,Whitedove,Lane,Lampe ,65681,48,36.5787877,-93.44717238,97 Whitedove Ln
+105.0,Alyeska Point,Road,,65681,49,36.580979,-93.493554,105 Aleaska Crossing
+227.0,Catamount,Boulevard,Branson West,65737,49,36.71146791,-93.36380422,227 N Catamount Blvd
+98.0,Drury,Lane,Blue Eye,65611,49,36.5577926,-93.32432254,98 Drury Ln
+373.0,Forest,Lane,Kimberling City,65686,49,36.617408,-93.44110619,373 Forrest Ln
+3.0,Hillcrest,Drive,Kimberling City,65686,49,36.64668108,-93.4296571,3 Hillcrest Dr
+63.0,Kyle,Drive,Lampe ,65681,49,36.54025666,-93.42952284,63 Kyle Dr
+962.0,Lake Forest,Drive,Galena,65656,49,36.68012,-93.468302,962 Lake Forest Dr
+962.0,Lake Forest,Drive,Galena,65656,49,36.68012,-93.468302,962 Lake Forest Dr
+128.0,Meadow Hills,Lane,Branson,65616,49,36.65515052,-93.33423288,128 Meadows Hill 
+123.0,North Caps Cove,Lane,Branson,65616,49,36.62495799,-93.34855963,123 N. Caps Cove Ln
+629.0,Dogwood Village,Lane,Lampe ,65681,50,36.57817246,-93.45505976,629 Dogwood Village
+737.0,Dogwood Village,Lane,Lampe ,65681,50,36.57833877,-93.45392043,737 Dogwood Village
+851.0,Dogwood Village,Lane,Lampe ,65681,50,36.58028031,-93.45276144,851 Dogwood Village
+851.0,Dogwood Village,Lane,Lampe ,65681,50,36.58028031,-93.45276144,851 Dogwood Village
+1693.0,Dogwood Village,Lane,Lampe ,65681,50,36.57341003,-93.45165747,1693 Dogwood Village
+1693.0,Dogwood Village,Lane,Lampe ,65681,50,36.57341003,-93.45165747,1693 Dogwood Village
+459.0,Heather,Row,Reeds Spring,65737,50,36.64694101,-93.36961282,459 Heather Rd
+99.0,Hunters Glen,Lane,Kimberling City,65686,50,36.63407597,-93.45613034,99 Hunters Glen
+4.0,Whitedove,Lane,Lampe ,65681,50,36.57586149,-93.45148173,4 Whitedove Ln
+31.0,Wright,Road,Reeds Spring,65737,50,36.655227,-93.461091,31 Wright Rd
+8.0,Blarney,Way,Kimberling City,65686,51,36.6515171,-93.44761542,8 Blarney Way
+15.0,Dogwood Village,Lane,Kimberling City,65686,51,36.57452267,-93.46010322,15 Dogwood Lane
+90.0,Misty Den,Drive,Reeds Spring,65737,51,36.66445519,-93.46434062,90 Misty Den Dr
+90.0,Misty Den,Drive,Reeds Spring,65737,51,36.66445519,-93.46434062,90 Misty Den Dr
+51.0,Northwoods,Drive,Kimberling City,65686,51,36.65733615,-93.4249206,51 Northwoods Dr
+303.0,Port,Drive,Kimberling City,65686,51,36.64115649,-93.41193184,303 Port Dr unit 6
+33.0,Redbud,Lane,Kimberling City,65686,51,36.63369615,-93.43628173,33 Redbud Ln
+33.0,Redbud,Lane,Kimberling City,65686,51,36.63369615,-93.43628173,33 Redbud Ln
+13.0,Yacht,Lane,Kimberling City,65686,51,36.64529871,-93.41191227,13 Yacht Lane
+56.0,Carefree,Lane,Kimberling City,65686,52,36.6464955,-93.45758774,56 Carefree Ln
+56.0,Carefree,Lane,Kimberling City,65686,52,36.6464955,-93.45758774,56 Carefree Ln
+1725.0,Cedar Ridge,Way,Reeds Spring,65737,52,36.69175907,-93.3284651,1725 Cedar Ridge Way
+95.0,Harborview,Drive,Branson West,65737,52,36.58612415,-93.38635236,95 Harborview Dr
+146.0,Hodges,Lane,,65737,52,36.666006665675525,-93.41869234581075,146 Shadow Valley Dr
+146.0,Hodges,Lane,,65737,52,36.666006665675525,-93.41869234581075,146 Shadow Valley Dr
+160.0,Micahs,Crossing,Reeds Spring,65737,52,36.73219234,-93.38546359,160 Michas Crossing
+273.0,Rock Ridge,Road,,65737,52,36.66672906022362,-93.3637680144043,273 River Rock Road
+199.0,Seldom Seen,Lane,Branson West,65737,52,36.6760192,-93.37060894,199 Seldom Seen Ln
+303.0,The Lodges,Drive,Lampe ,65681,52,36.59385936,-93.43025709,303 The Lodges Dr
+622.0,Heather,Row,Reeds Spring,65737,53,36.6443117,-93.36994116,622 Heather Row
+110.0,Sunny,Lane,Branson West,65737,53,36.71488256,-93.36490263,110 Sunny Ln
+110.0,Sunny,Lane,Branson West,65737,53,36.71488256,-93.36490263,110 Sunny Ln
+301.0,Alyeska Point,Road,Lampe ,65681,54,36.580979,-93.493554,301 Alyska point rd
+341.0,Flagstone,Road,Cape Fair,65624,54,36.740621,-93.508155,341 Flagstone Rd
+17.0,J L Mills,Ridge,Galena,65656,54,36.7011487,-93.46257313,17 JC Mills Ridge
+3126.0,MO 176,,,65656,54,36.82186675358095,-93.41544699981112,3126 St Hwy 176
+968.0,Othello,Lane,Reeds Spring,65737,54,36.62997638,-93.40003193,968 Othello Ln
+968.0,Othello,Lane,Reeds Spring,65737,54,36.62997638,-93.40003193,968 Othello Ln
+1026.0,Othello,Lane,Reeds Spring,65737,54,36.62977659,-93.39951009,1026 Othello Ln
+1026.0,Othello,Lane,Reeds Spring,65737,54,36.62977659,-93.39951009,1026 Othello Ln
+198.0,Starlight,Lane,Branson West,65737,54,36.65386436,-93.377873,198 Starlight Ln
+116.0,Sunny,Lane,Branson West,65737,54,36.71470856,-93.36415865,116 Sunny Ln
+622.0,Heather,Row,Reeds Spring,65737,55,36.6443117,-93.36994116,622 Heather Row
+20834.0,Main,Street,,65737,55,0.0,0.0,20834 Main St
+236.0,McCord Bend,Road,Galena,65656,55,36.80740119,-93.49722729,236 McCord Bend Rd
+236.0,McCord Bend,Road,Branson West,65737,55,36.80740119,-93.49722729,236 McCord Bend Rd
+716.0,MO 248,,Reeds Spring,65737,55,36.7577757,-93.37124397,716 State Hwy 248
+716.0,MO 248,,Reeds Spring,65737,55,36.7577757,-93.37124397,716 State Hwy 248
+198.0,Starlight,Lane,Branson West,65737,55,36.65386436,-93.377873,198 Starlight Ln
+97.0,Wright,Road,Branson West,65737,55,36.6553193,-93.46167685,97 Wright Rd
+97.0,Wright,Road,Branson West,65737,55,36.6553193,-93.46167685,97 Wright Rd
+40.0,Charles,Street,,65681,56,36.56914357832731,-93.48311637383881,40 Hewden Rd
+32.0,Chickasaw,Lane,Lampe ,65681,56,0.0,0.0,Cannot Locate in MO
+32.0,Chickasaw,Lane,Lampe ,65681,56,0.0,0.0,Cannot Locate in MO
+151.0,Christie,Road,Lampe ,65681,56,0.0,0.0,Cannot Locate in MO
+125.0,James River,Road,Kimberling City,65686,56,36.64586224,-93.42960234,125 James River Rd
+43.0,Lodgepole,Lane,Reeds Spring,65737,56,36.73505939,-93.36992418,43 Lodge Pole Ln
+79.0,Sailboat,Lane,Kimberling City,65686,56,36.60816023,-93.44487904,79 Sailboat Ln
+315.0,west 10th,Street,Galena,65656,56,36.80028575,-93.46899182,315 W 10th St
+8.0,Blarney,Way,Kimberling City,65686,57,36.6515171,-93.44761542,8 Blarney Way
+8.0,Bridgeview,Drive,Kimberling City,65686,57,36.633976,-93.437677,8 Bridgeview Dr
+181.0,Morgan,Trail,Reeds Spring,65737,57,36.58784771,-93.36545111,181 Morgan Trl
+254.0,pinnacle cove,Lane,Lampe ,65681,57,36.59181324,-93.43669843,254 Pinacle Cove Ln
+254.0,pinnacle cove,Lane,Lampe ,65681,57,36.59181324,-93.43669843,254 Pinacle Cove Ln
+137.0,Pinnacle Shores,Drive,Lampe ,65681,57,36.58998649,-93.43327318,137 Pinnacle Shores Dr
+137.0,Pinnacle Shores,Drive,Lampe ,65681,57,36.58998649,-93.43327318,137 Pinnacle Shores Dr
+355.0,Silverbridge,Lane,Kimberling City,65686,57,36.61466306,-93.41300934,355 Silverbridge Ln
+1247.0,Alyeska Point,Road,Lampe ,65681,58,36.582718,-93.500417,1247 Alyeska Point
+18.0,Blueview,Lane,Kimberling City,65686,58,36.62056469,-93.4565205,18 Shane Ln
+99.0,Boulder,Drive,Lampe ,65681,58,36.545165,-93.48694,99 Boulder Dr
+1036.0,Jones Trading Post,Road,,65681,58,36.54893709762615,-93.45196195270368,1036 Jones Trading Post
+131.0,Lakeshore,Drive,Kimberling City,65686,58,36.63543405,-93.43294358,131 Lakeshore Dr
+178.0,Leighs,Way,Reeds Spring,65737,58,36.73144976,-93.38764917,178 Leighs Way
+459.0,Micahs,Crossing,Reeds Spring,65737,58,36.73083949,-93.38938271,459 Michas Crossing
+4403.0,MO H,,Lampe ,65681,58,36.56832099,-93.49266219,4403 St Hwy H
+28.0,Sugar Maple,Lane,Reeds Spring,65737,58,36.654775,-93.454822,28 Sugar Maple Ln
+147.0,Victory,Lane,Branson West,65737,58,36.66150849,-93.42095437,147 Victory Ln
+14.0,Misty Den,drive,Reeds Spring,65737,59,36.66438017,-93.46432999,14 Shore View Dr
+3707.0,MO 13,,Lampe ,65681,59,36.53277855,-93.42589467,3707 State Hwy 13
+3735.0,MO 86,,Lampe ,65681,59,36.52202149,-93.4859484,3735 W State Hwy 86
+416.0,Navajo,Trail,Kimberling City,65686,59,36.620891,-93.434727,416 Navajo Trl
+146.0,peaceful Valley,Lane,,65737,59,36.659922801317016,-93.45980795040673,146 Beautful Valley Ln
+146.0,peaceful Valley,Lane,,65737,59,36.659922801317016,-93.45980795040673,146 Beautful Valley Ln
+1.0,Sunvalley,Lane,Lampe ,65681,59,36.530153,-93.431965,Sun Valley
+12.0,Walnut,Lane,Kimberling City,65686,59,36.63563822,-93.43033268,12 Walnut Ln
+54.0,Zachs,court,Reeds Spring,65737,59,36.73186193,-93.38928713,54 Zachs Court
+5.0,Bridgeview,Drive,Kimberling City,65686,60,36.633234,-93.437673,5 Bridgeview Dr
+14504.0,Business Highway 13,,Reeds Spring,65737,60,36.6696308,-93.4094934,14504 Business 13
+672.0,Cron,Road,Lampe ,65681,60,36.54360988,-93.45257653,672 Cron Rd
+580.0,Falling star,Road,Lampe ,65681,60,36.58522494,-93.49559365,580 Falling St
+580.0,Falling star,Road,Lampe ,65681,60,36.58522494,-93.49559365,580 Falling St
+7.0,James River,Road,Kimberling City,65686,60,36.6593838,-93.41767641,7 James River Rd
+76.0,Pinnacle Shores,Drive,Lampe ,65681,60,36.59145686,-93.43198915,76 Pinnacle Shores Dr
+76.0,Pinnacle Shores,Drive,Lampe ,65681,60,36.59145686,-93.43198915,76 Pinnacle Shores Dr
+265.0,Santana,Circle,Reeds Spring,65737,60,36.65264176,-93.46757189,265 Santana Circle
+42.0,Skyline,Drive,Kimberling City,65686,60,36.63931384,-93.43446058,42 Skyline Dr
+12.0,Bridgeview,Drive,Kimberling City,65686,61,36.634604,-93.437504,12 Bridgeview
+20.0,Bridgeview,Drive,Kimberling City,65686,61,36.63487472,-93.43748059,20 Bridgeview
+123.0,Coachlight,Lane,Kimberling City,65686,61,36.60889043,-93.42273414,123 Coachlight Ln
+18.0,Greenview,Drive,Kimberling City,65686,61,36.65268577,-93.42029945,18 Greenview Dr
+18.0,Greenview,Drive,Kimberling City,65686,61,36.65268577,-93.42029945,18 Greenview Dr
+320.0,Jones Trading Post,Road,,65681,61,36.54730648979592,-93.43919991836734,320 Jones Trading Post
+1.0,Lively Acres,Lane,Kimberling City,65686,61,36.605231,-93.439463,31 Jeremy Ln
+459.0,Micahs,Crossing,Reeds Spring,65737,61,36.73083949,-93.38938271,459 Michas Crossing
+197.0,Misty Den,Drive,Kimberling City,65686,61,36.66408563,-93.46432203,197 Misty Den
+7918.0,MO 86,,Shell Knob,65737,61,36.5410692,-93.35977168,7918 W Hwy 86
+51.0,Bayview,Trail,Lampe ,65681,62,36.5880669,-93.4360228,51 Bayview Trl
+122.0,Pinnacle Shores,Drive,Lampe ,65681,62,36.59044749,-93.43301663,122 Pinnacle Shores Dr
+122.0,Pinnacle Shores,Drive,Lampe ,65681,62,36.59044749,-93.43301663,122 Pinnacle Shores Dr
+131.0,Pinnacle Shores,Drive,Lampe ,65681,62,36.59011835,-93.43308506,131 Pinnacle Shores Dr
+134.0,Pinnacle Shores,Drive,Lampe ,65681,62,36.59015521,-93.4333604,134 Pinnacle Shores Dr
+134.0,Pinnacle Shores,Drive,Lampe ,65681,62,36.59015521,-93.4333604,134 Pinnacle Shores Dr
+229.0,Pinnacle Shores,Drive,Lampe ,65681,62,36.5902997,-93.4329882,229 Pinnacle Shores Dr
+229.0,Pinnacle Shores,Drive,Lampe ,65681,62,36.5902997,-93.4329882,229 Pinnacle Shores Dr
+14.0,The Lodges,Drive,Lampe ,65681,62,36.59289473,-93.42963271,14 The Lodges Pass
+14.0,The Lodges,Drive,Lampe ,65681,62,36.59289473,-93.42963271,14 The Lodges Pass
+10.0,Hillcrest,Drive,Kimberling City,65686,63,36.6465853,-93.43008427,10 Hillcrest Dr
+10.0,Hillcrest,Drive,Kimberling City,65686,63,36.6465853,-93.43008427,10 Hillcrest Dr
+10.0,Hillcrest,Drive,Kimberling City,65686,63,36.6465853,-93.43008427,10 Hillcrest Dr
+12.0,Hillcrest,Drive,Kimberling City,65686,63,36.64650072,-93.43017886,12 Hillcrest Dr
+100.0,mcdowell,drive,Kimberling City,65686,63,36.63991,-93.444946,40 Ripping Water 
+918.0,Silverbluff,Circle,Reeds Spring,65737,63,36.68818725,-93.31397874,918 Silver Bluff Circle
+122.0,Silveroak,Way,Reeds Spring,65737,63,36.68549465,-93.31883611,122 Silver Oak Way
+125.0,Silveroak,Way,Reeds Spring,65737,63,36.68429218,-93.32034689,125 Silver Oak Way
+303.0,The Lodges,Drive,Lampe ,65681,63,36.59385936,-93.43025709,303 The Lodges Dr
+15.0,Turner,Drive,Kimberling City,65686,63,36.63435172,-93.42292802,15 Turner Dr
+620.0,Austin,Place,Branson West,65737,64,36.66930045,-93.36262489,620 Austin Pl
+620.0,Austin,Place,Branson West,65737,64,36.66930045,-93.36262489,620 Austin Pl
+5.0,Bethany Hill,,Reeds Spring,65737,64,36.58505644,-93.38939981,5 Safety Hollow Ln
+120.0,Canyon Forest,Circle,,65686,64,36.64361708098826,-93.44230260036181,120 Canyon Forest Cir
+197.0,Falling Leaf,court,Branson West,65737,64,36.62603843,-93.37168811,197 Falling Leaf Ct
+256.0,Hidden Spring,Drive,Reeds Spring,65737,64,36.7749619,-93.34966532,256 Hidden Springs
+13.0,Hillcrest,Drive,Kimberling City,65686,64,36.6467039,-93.43025827,13 Hillerd sid
+440.0,Hoot Owl,Point,Kimberling City,65686,64,36.612312,-93.4545709,440 Hoot Owl Point
+24.0,Mountain View,Court,Reeds Spring,65737,64,36.70835217,-93.32305354,24 Mountain View Ct
+455.0,Silver Bell,Lane,Reeds Spring,65737,64,36.61765304,-93.43997964,455 Silver Bell
+54.0,Bankside,Lane,,65681,65,36.60416594824583,-93.40763642114925,54 Backside ln
+6.0,Buttonwood,Drive,Kimberling City,65686,65,36.651577,-93.433589,6 Buttonwood Dr
+391.0,Corewood,Lane,Reeds Spring,65737,65,36.65949811,-93.46157485,391 Corewood ln
+197.0,Falling Leaf,court,Branson West,65737,65,36.62603843,-93.37168811,197 Falling Leaf Ct
+10.0,kristina,lane,Kimberling City,65686,65,36.65957795,-93.42476097,10 kristina ln
+18.0,Meadowview,Road,Galena,65656,65,36.694325,-93.447669,18 Meadowview Dr
+1104.0,Ozark Mountain Resort,Drive,Kimberling City,65686,65,36.60525891,-93.41378177,1104 Rocky shore trl
+15.0,Skyline,Drive,Kimberling City,65686,65,36.63751757,-93.43570483,15 Skyline Dr
+249.0,Three Pines,Circle,Reeds Spring,65737,65,36.7359062,-93.3679859,249 three pigs circle
+3.0,West Church,Drive,Kimberling City,65686,65,36.64252241,-93.42482669,3 South St Apt b
+170.0,Keel,Lane,Kimberling City,65686,66,36.643311,-93.41229,170 keel ln #6
+594.0,Labradore,Lane,,65681,66,36.56668449702349,-93.48406793708767,594 Labrador Ln
+246.0,Starboard,Drive,Kimberling City,65686,66,36.64222575,-93.4128299,246 Starboard Dr
+,Unreadable,,,65686,66,0.0,0.0,17 cameran Dr
+112.0,Keel,Lane,Kimberling City,65686,67,36.64302567,-93.41390595,112 Keel Ln
+130.0,Keel,Lane,Kimberling City,65686,67,36.64283403,-93.41349581,130 Keel Ln
+88.0,Port,Drive,Kimberling City,65686,67,36.62797895,-93.4258373,88 Port Dr
+197.0,Port,Drive,Kimberling City,65686,67,36.62851369,-93.42594863,197 Port Dr
+201.0,Port,Drive,Kimberling City,65686,67,36.62848346,-93.42595387,201 Port Dr
+349.0,port,Drive,Kimberling City,65686,67,36.640926,-93.411845,349 port Dr #2
+3197.0,Port,Drive,Kimberling City,65686,67,36.6410621,-93.4117919,3197 Port Dr
+114.0,Spinnaker,Lane,Kimberling City,65686,67,36.641838,-93.41205257,114 Spinniker Ln
+50.0,Starboard,Drive,Kimberling City,65686,67,36.642697,-93.412924,50 Starborad Dr
+246.0,Starboard,Drive,Kimberling City,65686,67,36.64222575,-93.4128299,246 Starboard Dr
+130.0,Keel,Lane,Kimberling City,65686,68,36.64283403,-93.41349581,130 Keel Ln
+91.0,Port,Drive,Kimberling City,65686,68,36.62930499,-93.4257643,91 Port Dr #3
+91.0,Port,Drive,Kimberling City,65686,68,36.62930499,-93.4257643,91 Port Dr #3
+201.0,Port,Drive,Kimberling City,65686,68,36.62848346,-93.42595387,201 Port Dr
+303.0,Port,Drive,Kimberling City,65686,68,36.64115649,-93.41193184,303 Port Dr unit 7
+349.0,Port,Drive,Kimberling City,65686,68,36.640926,-93.411845,349 Port Dr Unit 2
+114.0,Spinnaker,Lane,Kimberling City,65686,68,36.641838,-93.41205257,114 Spinniker Ln
+88.0,Starboard,Drive,Kimberling City,65686,68,36.643708,-93.413014,88 Starboard
+88.0,Starboard,Drive,Kimberling City,65686,68,36.643708,-93.413014,88 Starboard
+93.0,Starboard,Drive,Kimberling City,65686,68,36.64414187,-93.41309893,93 Starboard
+419.0,Canyon Forest,Circle,,65686,69,36.64476543985867,-93.44433234481545,419 Canyon Forest 
+353.0,Edgewater,Estates,Kimberling City,65686,69,36.62124618,-93.44997042,353 Edgewater St
+353.0,Edgewater,Estates,Kimberling City,65686,69,36.62124618,-93.44997042,353 Edgewater St
+38.0,Hillview,Lane,Branson West,65737,69,36.63956082,-93.39259396,38 Hill View
+267.0,Silverbridge,Lane,Kimberling City,65686,69,36.61475106,-93.41337771,267 Silver Bridge Ln
+219.0,South Port,Lane,Kimberling City,65686,69,36.61448689,-93.41563953,219 South Port Ln Unit 31
+15.0,Whiterock,Lane,,65686,69,36.636221583196416,-93.43831356003165,15 Waiterock Ln
+1055.0,Alyeska Point,Road,Lampe ,65681,70,36.58043398,-93.49510659,1055 Ayleeska Point Rd
+419.0,Canyon Forest,Circle,,65686,70,36.64476543985867,-93.44433234481545,419 Cannyon Forrest
+38.0,Hillview,Lane,Branson West,65737,70,36.63956082,-93.39259396,38 Hill View Ln
+160.0,Hodges,Lane,,65737,70,36.666324695173174,-93.41881262708328,160 Shadow Valley Dr
+356.0,Linden,Drive,Reeds Spring,65737,70,36.59096513,-93.39851863,356 Linden Dr
+356.0,Linden,Drive,Reeds Spring,65737,70,36.59096513,-93.39851863,356 Linden Dr
+600.0,Point Sixteen,Lane,Galena,65656,70,36.597128,-93.503443,600 Point Ridge
+127.0,Ridgeview,Road,Branson West,65737,70,36.64420336,-93.38677912,127 Ridgeview Rd
+102.0,Ripley,Lane,Branson West,65737,70,36.66993415,-93.3951333,102 Ripley Ln
+264.0,Starlight,Lane,Branson West,65737,70,36.6541706,-93.3778565,264 Starrville Ln
+13.0,Elm,Drive,Kimberling City,65686,71,36.64099181,-93.42922664,13 Elm Dr
+47.0,Hidden Shores,Drive,Reeds Spring,65737,71,36.58200251,-93.37100716,47 Hidden Shores Dr
+3.0,Hillcrest,Drive,Kimberling City,65686,71,36.64668108,-93.4296571,3 Hillcrest Dr
+48.0,Lexington,Road,,65681,71,36.58541243927067,-93.42485626454565,48 Levington Rd
+48.0,Lexington,Road,,65681,71,36.58541243927067,-93.42485626454565,48 Levington Rd
+275.0,Micahs,Crossing,Reeds Spring,65737,71,36.73181784,-93.38820332,275 Micahs Crossing 
+300.0,Port,Drive,Kimberling City,65686,71,36.641171,-93.411939,300 Port Dr Unit 1
+409.0,Three Pines,Circle,Reeds Spring,65737,71,36.73643359,-93.36727079,409 Thre Pines Cir
+409.0,Three Pines,Circle,Reeds Spring,65737,71,36.73643359,-93.36727079,409 Thre Pines Cir
+8.0,Valley View,Drive,Kimberling City,65686,71,36.64360891,-93.4252746,8 Valley View Dr
+1.0,Beaver Dam,Road,Billings,65610,72,36.950858,-93.487473,
+1.0,Beaver Dam,Road,Billings,65610,72,36.950858,-93.487473,
+688.0,Cabin,Road,,65631,72,36.9714894,-93.45424178,
+688.0,Cabin,Road,,65631,72,36.9714894,-93.45424178,
+151.0,Fairwood,Road,Lampe ,65681,72,36.57233663,-93.48563945,
+255.0,Pinnacle Shores,Drive,Lampe ,65681,72,36.5902997,-93.4329882,
+4405.0,State Highway K,,,65631,72,36.969949888888884,-93.46620861616162,
+4405.0,State Highway K,,,65631,72,36.969949888888884,-93.46620861616162,
+200.0,Walnut,,,65675,72,36.935482,-93.497021,
+200.0,Walnut,,,65675,72,36.935482,-93.497021,
+456.0,Bywater,Drive,,65624,73,36.78710595,-93.51679359,
+1.0,Hillcrest,Drive,Kimberling City,65686,73,36.646623,-93.429538,
+128.0,Lakeshore,Drive,Kimberling City,65686,73,36.63500278,-93.43305069,
+19988.0,MO 13,,Reeds Spring,65673,73,36.72012894,-93.3778719,
+246.0,Navajo,Trail,Kimberling City,65686,73,36.622091,-93.435712,
+246.0,Navajo,Trail,Kimberling City,65686,73,36.622091,-93.435712,
+838.0,Peace in the Valley,Road,Blue Eye,65611,73,36.5237559,-93.3776603,
+178.0,Ridge,Drive,,65616,73,36.6356547,-93.34597537,
+199.0,Seldom Seen,Lane,Branson West,65737,73,36.6760192,-93.37060894,
+139.0,Water Wheel,Lane,Kimberling City,65686,73,36.60985968,-93.45244353,
+42.0,Bethany Beach,Drive,Branson West,65737,74,36.58275435,-93.38956773,
+42.0,Bethany Beach,Drive,Branson West,65737,74,36.58275435,-93.38956773,
+588.0,Canyon,Parkway,Branson,65616,74,36.64270563,-93.31847548,
+588.0,Canyon,Parkway,Branson,65616,74,36.64270563,-93.31847548,
+258.0,Eagle Ridge,Lane,Branson West,65737,74,36.61766702,-93.37284168,
+440.0,Hoot Owl,Point,Kimberling City,65686,74,36.612312,-93.4545709,
+10864.0,MO 76,,Branson West,65737,74,36.69675717,-93.36508367,
+403.0,Shiloh,Lane,Kimberling City,65686,74,36.62753696,-93.44335573,
+403.0,Shiloh,Lane,Kimberling City,65686,74,36.62753696,-93.44335573,
+3.0,South Church,Drive,Kimberling City,65686,74,36.641518,-93.424945,
+619.0,Black Forest,Lane,,65737,75,36.70113058,-93.32789045,
+1775.0,Cedar Ridge,Way,Reeds Spring,65737,75,36.69249345,-93.33414628,
+1251.0,Golf,Drive,Reeds Spring,65737,75,36.68189718,-93.31715584,
+92.0,Lakeside,Lane,Reeds Spring,65737,75,36.7047843,-93.3200142,
+92.0,Lakeside,Lane,Reeds Spring,65737,75,36.7047843,-93.3200142,
+124.0,Silveroak,Way,Reeds Spring,65737,75,36.685484,-93.318281,
+124.0,Silveroak,Way,Reeds Spring,65737,75,36.685484,-93.318281,
+1334.0,Silveroak,Way,Reeds Spring,65737,75,36.684266,-93.321679,
+630.0,Stoney Kirk,Circle,,65737,75,36.68729247,-93.31606071,
+355.0,Black Forest,Lane,,65737,76,36.70425654,-93.32617657,
+108.0,Cabana,court,,65737,76,36.684763,-93.31317109,
+100.0,Commons,court,,65737,76,36.680875,-93.318929,
+1103.0,Ledgestone,Lane,,65737,76,36.69126989,-93.32032914,
+1103.0,Ledgestone,Lane,,65737,76,36.69126989,-93.32032914,
+439.0,Limestone,Drive,Branson West,65737,76,36.70113245,-93.32155985,
+439.0,Limestone,Drive,Branson West,65737,76,36.70113245,-93.32155985,
+81.0,Mountain View,Court,Reeds Spring,65737,76,36.70834742,-93.32325185,
+1042.0,Pokeberry,Lane,Lampe ,65681,76,36.59089558,-93.41360787,
+913.0,Silverbluff,Circle,,65737,76,36.68820247,-93.31436277,
+318.0,Cedar Glade,Drive,Branson West,65737,77,36.706468,-93.3162886,
+318.0,Cedar Glade,Drive,Branson West,65737,77,36.706468,-93.3162886,
+374.0,Cedar Glade,Drive,Branson West,65737,77,36.706468,-93.3162886,
+374.0,Cedar Glade,Drive,Branson West,65737,77,36.706468,-93.3162886,
+469.0,Cleartop,Lane,Lampe ,65681,77,36.54402337,-93.50048755,
+829.0,Forest Lake,Drive,,65737,77,36.70020099,-93.32311286,
+297.0,Limestone,Drive,Branson West,65737,77,36.69899769,-93.3201055,
+220.0,Mountain View,Court,Reeds Spring,65737,77,36.70824254314082,-93.32380589374446,
+430.0,Silveroak,Way,Reeds Spring,65737,77,36.684266,-93.321679,
+54.0,Forest Lake,Drive,,65737,78,36.7044337,-93.3233455,
+54.0,Forest Lake,Drive,,65737,78,36.7044337,-93.3233455,
+82.0,Forest Lake,Drive,,65737,78,36.7044337,-93.3233455,
+71.0,Fox Hollow,Road,,65737,78,36.70222106,-93.32195219,
+71.0,Fox Hollow,Road,,65737,78,36.70222106,-93.32195219,
+66.0,Garnite,Drive,Reeds Spring,65737,78,36.70624722,-93.32247817,
+903.0,Silverbluff,Circle,,65737,78,36.68864374,-93.31446637,
+903.0,Silverbluff,Circle,,65737,78,36.68864374,-93.31446637,
+1309.0,Stoney Creek,Lane,,65737,78,36.68971192,-93.32135003,
+1309.0,Stoney Creek,Lane,,65737,78,36.68971192,-93.32135003,
+22.0,Ashwood,Lane,,65737,79,36.69235816,-93.3169954,
+22.0,Ashwood,Lane,,65737,79,36.69235816,-93.3169954,
+332.0,Cedar Glade,Drive,Branson West,65737,79,36.706468,-93.3162886,
+332.0,Cedar Glade,Drive,Branson West,65737,79,36.706468,-93.3162886,
+284.0,Marcasite,way,,65737,79,36.70922326,-93.32746828,
+284.0,Marcasite,way,,65737,79,36.70922326,-93.32746828,
+25.0,Mountain View,Court,Reeds Spring,65737,79,36.70835208,-93.32305702,
+840.0,silvercliff,way,,65737,79,36.68939851,-93.31789781,
+840.0,silvercliff,way,,65737,79,36.68939851,-93.31789781,
+168.0,Starrville,Lane,Branson West,65737,79,36.6630531,-93.4202146,
+616.0,Crossing,Drive,,65737,80,36.6861038,-93.31378231,
+616.0,Crossing,Drive,,65737,80,36.6861038,-93.31378231,
+66.0,Garnite,Drive,Reeds Spring,65737,80,36.70624722,-93.32247817,
+1104.0,Ledgestone,Lane,,65737,80,36.690837,-93.319891,
+1104.0,Ledgestone,Lane,,65737,80,36.690837,-93.319891,
+7.0,Par,Lane,,65737,80,36.68246305,-93.31594649,
+7.0,Par,Lane,,65737,80,36.68246305,-93.31594649,
+931.0,Silverbluff,Circle,,65737,80,36.68811233,-93.31366187,
+110.0,Silveroak,Way,Reeds Spring,65737,80,36.68433365,-93.32135236,
+630.0,Stoney Kirk,Circle,,65737,80,36.68729247,-93.31606071,
+269.0,Black Forest,Lane,,65737,81,36.70421341,-93.32461154,
+269.0,Black Forest,Lane,,65737,81,36.70421341,-93.32461154,
+703.0,Ledgestone,way,,65737,81,36.6912,-93.32448,
+923.0,Silverbluff,Circle,,65737,81,36.68799757,-93.31399963,
+923.0,Silverbluff,Circle,,65737,81,36.68799757,-93.31399963,
+801.0,silvercliff,way,,65737,81,36.69047,-93.319046,
+801.0,silvercliff,way,,65737,81,36.69047,-93.319046,
+112.0,Silveroak,Way,Reeds Spring,65737,81,36.68433,-93.320937,
+113.0,Silveroak,Way,Reeds Spring,65737,81,36.68416184,-93.32131468,
+1705.0,Cedar Ridge,Way,Reeds Spring,65737,82,36.69212213,-93.32646929,
+1119.0,Ledgestone,Lane,,65737,82,36.69265098,-93.32166614,
+297.0,Limestone,Drive,Branson West,65737,82,36.69899769,-93.3201055,
+220.0,Mountain View,Court,Reeds Spring,65737,82,36.70824254314082,-93.32380589374446,
+252.0,Mountain View,Court,Reeds Spring,65737,82,36.70760079,-93.32399818,
+421.0,silverwood,Circle,,65737,82,36.687237,-93.31956,
+421.0,silverwood,Circle,,65737,82,36.687237,-93.31956,
+423.0,silverwood,Circle,,65737,82,36.68723549,-93.31953876,
+423.0,silverwood,Circle,,65737,82,36.68723549,-93.31953876,
+178.0,Weatherstone,Drive,,65737,82,36.7072819,-93.3204755,
+355.0,Black Forest,Lane,,65737,83,36.70425654,-93.32617657,
+277.0,Cedar Glade,Drive,Branson West,65737,83,36.71146011,-93.31544383,
+277.0,Cedar Glade,Drive,Branson West,65737,83,36.71146011,-93.31544383,
+1705.0,Cedar Ridge,Way,Reeds Spring,65737,83,36.69212213,-93.32646929,
+918.0,Forest Lake,Drive,,65737,83,36.70176126,-93.32289024,
+918.0,Forest Lake,Drive,,65737,83,36.70176126,-93.32289024,
+121.0,Silveroak,Way,Reeds Spring,65737,83,36.68425709,-93.32047294,
+264.0,South Port,Lane,,65686,83,36.61407614,-93.41529727,
+264.0,South Port,Lane,,65686,83,36.61407614,-93.41529727,
+533.0,Weatherstone,Drive,,65737,83,36.71063044,-93.32032137,
+3050.0,buttermilk Spring,Road,,65656,84,36.651353,-93.511809,
+1105.0,Ledgestone,Lane,,65737,84,36.69145792,-93.32059794,
+1105.0,Ledgestone,Lane,,65737,84,36.69145792,-93.32059794,
+1364.0,Little Aunts Creek,Road,,65686,84,36.64450314,-93.46691785,
+121.0,Silveroak,Way,Reeds Spring,65737,84,36.68425709,-93.32047294,
+943.0,Treasure,Point,,65681,84,36.54638412,-93.48827636,
+503.0,Weatherstone,Drive,,65673,84,36.71009755,-93.31986257,
+503.0,Weatherstone,Drive,,65737,84,36.71009755,-93.31986257,
+1.0,west 3rd,Street,,65656,84,36.8063784,-93.471004,
+2374.0,buttermilk Spring,Road,,65656,85,36.65480941,-93.51825063,
+2374.0,buttermilk Spring,Road,,65656,85,36.65480941,-93.51825063,
+2998.0,buttermilk Spring,Road,,65656,85,36.65122625,-93.51262527,
+20.0,clive cove,vista,,65681,85,36.60538498,-93.40920716,
+35.0,Delaney,way,,65656,85,36.65107916,-93.51122931,
+617.0,Rose Hill,Lane,,65656,85,36.66732865,-93.51820448,
+617.0,Rose Hill,Lane,,65656,85,36.66732865,-93.51820448,
+1.0,Unreadable,,,65656,85,0.0,0.0,
+,Unreadable,,,65656,85,0.0,0.0,
+,Unreadable,,,65656,85,0.0,0.0,
+408.0,Austin,Place,,65737,86,36.66933195,-93.36267001,
+409.0,Austin,Place,,65737,86,36.6694579,-93.36253737,
+80.0,ClearCove,Drive,,65737,86,36.654624,-93.459175,
+1315.0,Coon ridge,Road,,65656,86,36.81255602,-93.36512151,
+674.0,Heather,Row,,65737,86,36.64380454,-93.36951771,
+43.0,Marina,Way,Kimberling City,65686,86,36.63642918,-93.41690375,
+43.0,Marina,Way,Kimberling City,65686,86,36.63642918,-93.41690375,
+68.0,Neals,Trail,,65737,86,36.73278217,-93.38695055,
+24.0,Zachs,court,,65737,86,36.732042,-93.38928518,
+186.0,Echo Valley,Circle,,65737,87,36.73057355,-93.38397269,
+186.0,Echo Valley,Circle,,65737,87,36.73057355,-93.38397269,
+80.0,Kings Cove,Lane,,65737,87,36.65441209,-93.46102134,
+100.0,Kings Cove,Lane,,65737,87,36.65441865182905,-93.46129910759177,
+121.0,Kings Cove,Lane,,65737,87,36.65459226076151,-93.46158154223701,
+121.0,Kings Cove,Lane,,65737,87,36.65459226,-93.46158154,
+768.0,Old Wilderness,Road,,65737,87,36.73470646,-93.37363586,
+768.0,Old Wilderness,Road,,65737,87,36.73470646,-93.37363586,
+25.0,Shady Oak,Lane,,65737,87,36.75689388,-93.37379904,
+25.0,Shady Oak,Lane,,65737,87,36.75689388,-93.37379904,
+4428.0,Joe Bald,Road,,65686,88,36.6204901,-93.45717683,
+85.0,North Keystone,Street,,65747,88,36.60371352,-93.57886312,
+124.0,north walnut,Street,,65611,88,36.579141,-93.337418,
+766.0,Peace in the Valley,Road,Blue Eye,65611,88,36.5237559,-93.3776603,
+200.0,Three Pines,Circle,Reeds Spring,65737,88,36.73692386,-93.36798079,
+200.0,Three Pines,Circle,Reeds Spring,65737,88,36.73692386,-93.36798079,
+,Unreadable,,,65737,88,0.0,0.0,
+222.0,Bassen Ridge,Lane,,65656,89,36.83887587,-93.39601805,
+564.0,Craig,Street,,65737,89,36.74208496,-93.37722302,
+1071.0,Dogwood Tree,Road,,65737,89,36.77409302,-93.3629436,
+701.0,Peach Orchard,Road,,65624,89,36.74032108,-93.49279965,
+84.0,Quail Cove,Drive,,65686,89,36.64575823,-93.46987703,
+316.0,South Maple,Street,,65656,89,36.80294893,-93.46569654,
+16.0,Stone,Road,Kimberling City,65686,89,36.62606681,-93.45604013,
+537.0,Tom Turkey,Circle,,65737,89,36.62398466,-93.39651301,
+,Unreadable,,,65737,89,0.0,0.0,
+99.0,Wildflower,Road,,65686,89,36.64561795,-93.46499524,
+284.0,Briar Oaks,Lane,,65737,90,36.61104858,-93.37569644,
+18593.0,Business Highway 13,,Reeds Spring,65737,90,36.6696308,-93.4094934,
+37.0,Crown,Drive,Branson West,65737,90,36.6728489,-93.36640911,
+1008.0,Dodge Hollow,Road,,65633,90,36.89918695,-93.58251541,
+24.0,Maid Marian,Lane,,65737,90,36.61169017,-93.40214306,
+193.0,Martin Hollow,Road,,65656,90,36.76865467,-93.47817045,
+113.0,Melody Manor,Lane,Reeds Spring,65737,90,36.65908403,-93.45487131,
+113.0,Melody Manor,Lane,Reeds Spring,65737,90,36.65908403,-93.45487131,
+19.0,Summit,Drive,,65686,90,36.65729377,-93.42046008,
+398.0,Taupe,Lane,,65737,90,36.775368,-93.33219,
+311.0,Cedar Glade,Drive,Branson West,65737,91,36.7129438,-93.31604131,
+311.0,Cedar Glade,Drive,Branson West,65737,91,36.7129438,-93.31604131,
+123.0,James River,Road,Kimberling City,65686,91,36.64592556,-93.42956125,
+123.0,James River,Road,Kimberling City,65686,91,36.64592556,-93.42956125,
+183.0,Little Dove,Circle,,65737,91,36.58338747,-93.36045736,
+478.0,Log Slide,Bluff,,65681,91,36.58163829,-93.40641318,
+68.0,Northwoods,Drive,Kimberling City,65686,91,36.6583543,-93.42680515,
+114.0,Oak,Drive,,65686,91,36.643332,-93.410652,
+2853.0,Pioneer Point,Road,,65656,91,36.65977086,-93.47406625,
+2853.0,Pioneer Point,Road,,65656,91,36.65977086,-93.47406625,
+152.0,Goldwater,Lane,,65737,92,36.6747304,-93.45689465,
+25.0,Hilltop,Drive,Kimberling City,65686,92,36.64628445,-93.42476837,
+25.0,Hilltop,Drive,Kimberling City,65686,92,36.64628445,-93.42476837,
+2.0,Kristina,lane,Kimberling City,65686,92,36.659474,-93.424577,
+10770.0,Mo 76,,Branson West,65737,92,36.6963891,-93.3642549,
+133.0,Point seven,Road,,65686,92,36.61228533,-93.41669251,
+30.0,Quarterline,Drive,,65624,92,36.7315308,-93.49181039,
+3963.0,State Highway 86,,,65681,92,36.51934631590562,-93.48924160455724,
+613.0,summer,Road,,65686,92,36.6391819,-93.4642158,
+181.0,Forest Edge,Lane,,65686,93,36.62202275,-93.44615045,
+182.0,Hodges,Lane,,65737,93,36.66680131187102,-93.41874178651653,
+210.0,Lakeshore,Drive,Kimberling City,65686,93,36.57610125,-93.33107611,
+210.0,Lakeshore,Drive,Kimberling City,65686,93,36.57610125,-93.33107611,
+478.0,Log Slide,Bluff,,65681,93,36.58163829,-93.40641318,
+4.0,Midview,Drive,,65686,93,36.65299077,-93.42394952,
+916.0,Silverbluff,Circle,,65737,93,36.68818588809306,-93.31405339966992,
+81.0,summer,Road,,65686,93,36.64024,-93.464981,
+310.0,Sunset,Cove,,65616,93,36.63884592,-93.3304492,
+10.0,Woodpecker,Road,,65737,93,36.77686874,-93.36905552,
+1359.0,Hideaway,Road,,65656,94,36.6646735,-93.50460325,
+114.0,Peggie,Lane,,65656,94,36.66709898,-93.473632,
+114.0,Peggie,Lane,,65656,94,36.66709898,-93.473632,
+2025.0,Pioneer Point,Road,,65656,94,36.67092901,-93.47447932,
+2025.0,Pioneer Point,Road,,65656,94,36.67092901,-93.47447932,
+2161.0,Pioneer Point,Road,,65656,94,36.66928297,-93.47393863,
+2194.0,Pioneer Point,Road,,65656,94,36.66896615,-93.47378406,
+2289.0,Pioneer Point,Road,,65656,94,36.66757698,-93.47394485,
+2387.0,Pioneer Point,Road,,65656,94,36.66597199,-93.47406806,
+2387.0,Pioneer Point,Road,,65656,94,36.66597199,-93.47406806,
+106.0,Bear Den Cove,Lane,,65656,95,36.7010522,-93.49785893,
+106.0,Bear Den Cove,Lane,,65656,95,36.7010522,-93.49785893,
+487.0,Jackson Hollow,Road,,65656,95,36.67615336,-93.48193201,
+487.0,Jackson Hollow,Road,,65656,95,36.67615336,-93.48193201,
+60.0,Lake Point,Lane,,65656,95,36.6650368,-93.50078975,
+2161.0,Pioneer Point,Road,,65656,95,36.66928297,-93.47393863,
+6780.0,State Highway Y,,,65656,95,36.68951509,-93.49738891,
+,Unreadable,,,65656,95,0.0,0.0,
+50.0,Yocum Pond,Road,,65656,95,36.74981035,-93.39547632,
+50.0,Yocum Pond,Road,,65656,95,36.74981035,-93.39547632,
+67.0,chiguapin,Circle,,65616,96,36.6329833,-93.33908965,
+28.0,Libby,Lane,,65656,96,36.6566656,-93.47362651,
+2701.0,Pioneer Point,Road,,65656,96,36.662439,-93.473049,
+22.0,Timberlake,Circle,,65656,96,36.66062635,-93.47408367,
+87.0,Timberlake,Circle,,65656,96,36.66086229,-93.47504558,
+235.0,Timberlake,Circle,,65656,96,36.65997125,-93.47717417,
+235.0,Timberlake,Circle,,65656,96,36.65997125,-93.47717417,
+281.0,Timberlake,Circle,,65656,96,36.65926889,-93.47708323,
+374.0,Timberlake,Circle,,65656,96,36.65885637,-93.47634116,
+374.0,Timberlake,Circle,,65656,96,36.65885637,-93.47634116,
+28.0,Libby,Lane,,65656,97,36.6566656,-93.47362651,
+140.0,Magic Mountain,Lane,,65656,97,36.66009173,-93.475868,
+140.0,Magic Mountain,Lane,,65656,97,36.66009173,-93.475868,
+2670.0,Pioneer Point,Road,,65656,97,36.66273999,-93.47312518,
+2704.0,Pioneer Point,Road,,65656,97,36.66244152,-93.47283694,
+2780.0,Pioneer Point,Road,,65656,97,36.66184739,-93.47284826,
+2888.0,Pioneer Point,Road,,65656,97,36.66104415,-93.47312656,
+3208.0,Pioneer Point,Road,,65656,97,36.65621192,-93.47577513,
+3380.0,Pioneer Point,Road,,65656,97,36.6541792,-93.4779442,
+22.0,Timberlake,Circle,,65656,97,36.66062635,-93.47408367,
+234.0,Appletree,Lane,,65737,98,36.58900714,-93.38877337,
+7.0,Belgian,Road,,65737,98,36.58539303,-93.36264765,
+64.0,Irish Hills,Boulevard,,65686,98,36.65301586,-93.4436833,
+76.0,Jade,Lane,,65686,98,36.6244621,-93.4388678,
+120.0,Roxborough,Avenue,,65737,98,36.64265804,-93.36413426,
+2700.0,Pioneer Point,Road,,65686,99,36.662471,-93.472848,
+3306.0,Pioneer Point,Road,,65686,99,36.6544602,-93.4778251,
+25.0,Beach,Boulevard,,65686,100,36.63710614,-93.41649007,
+187.0,Craig,Street,,65737,100,36.736858,-93.37751,
+231.0,Craig,Street,,65737,100,36.73755995,-93.37774214,
+36.0,Diamond View,Lane,,65686,100,36.62438891,-93.43984242,
+10.0,James River,Lane,Kimberling City,65686,100,36.65255745,-93.42226929,
+1512.0,Little Aunts Creek,Road,,65686,100,36.64509669,-93.47002092,
+258.0,Maple,Lane,,65616,100,36.637224,-93.428768,
+72.0,Micahs,Crossing,Reeds Spring,65737,100,36.73301288,-93.38564122,
+35.0,Oak Shadow,Drive,,65686,100,36.6451273,-93.40901236,
+76.0,Sasparilla,Lane,,65686,100,36.60505021,-93.45425767,
+161.0,Candlewood,Lane,,65681,101,36.58749269,-93.42421061,
+35.0,Royale Estates,Road,,65686,101,36.62310904,-93.44609623,
+308.0,Sturgis,Lane,,65737,101,36.68709471,-93.43983859,
+95.0,Port,Drive,Kimberling City,65686,102,0.0,0.0,
+95.0,Port,Drive,Kimberling City,65686,102,0.0,0.0,
+153.0,Port,Drive,Kimberling City,65686,102,0.0,0.0,
+249.0,Port,Drive,Kimberling City,65686,102,36.62812075808338,-93.42601680804465,
+249.0,Port,Drive,Kimberling City,65686,102,36.62812075808338,-93.42601680804465,
+285.0,Blue Springs,Lane,,65737,103,36.65329315412271,-93.37212444058548,
+285.0,Blue Springs,Lane,,65737,103,36.65329315412271,-93.37212444058548,
+121.0,Canyon Forest,Circle,,65686,103,36.64362700703037,-93.44200393694007,
+6815.0,State Highway Y,,,65656,103,36.693043731963144,-93.49937492328549,
+59.0,Lincoln,Lane,,65681,104,36.56739205882353,-93.48345009803921,
+197.0,Port,Drive,Kimberling City,65686,104,0.0,0.0,
+197.0,Port,Drive,Kimberling City,65686,104,0.0,0.0,
+199.0,Port,Drive,Kimberling City,65686,104,0.0,0.0,
+249.0,Port,Drive,Kimberling City,65686,104,0.0,0.0,
+249.0,Port,Drive,Kimberling City,65686,104,36.62812075808338,-93.42601680804465,
+268.0,Port,Drive,Kimberling City,65686,104,0.0,0.0,
+268.0,Port,Drive,Kimberling City,65686,104,0.0,0.0,
+1.0,Port Holiday,Drive,Kimberling City,65686,104,36.6298,-93.425375,
+145.0,Starboard,Drive,Kimberling City,65686,104,36.64334194900255,-93.41312113540447,
+32.0,Clipper,Lane,,65686,105,36.644815091755625,-93.41265725171151,
+32.0,Clipper,Lane,,65686,105,36.644815091755625,-93.41265725171151,
+67.0,Port,Drive,Kimberling City,65686,105,0.0,0.0,
+67.0,Port,Drive,Kimberling City,65686,105,0.0,0.0,
+153.0,Port,Drive,Kimberling City,65686,105,0.0,0.0,
+153.0,Port,Drive,Kimberling City,65686,105,0.0,0.0,
+348.0,Port,Drive,Kimberling City,65686,105,36.64093127903076,-93.4118461113749,
+112.0,Spinnaker,Lane,,65686,105,36.641836714285716,-93.4120660612245,
+130.0,Starboard,Drive,Kimberling City,65686,105,36.64357279601019,-93.41311854161786,
+25.0,Yacht,Lane,,65686,105,36.64528242857143,-93.41188153061223,
+49.0,James River,Road,Kimberling City,65686,106,36.65938215898725,-93.41751189872488,
+49.0,James River,Road,Kimberling City,65686,106,36.65938215898725,-93.41751189872488,
+610.0,Double O Nine,Road,,65686,107,36.667174225470106,-93.4589335969953,
+610.0,Double O Nine,Road,,65686,107,36.667174225470106,-93.4589335969953,
+1275.0,Hoot Owl,Point,Kimberling City,65686,107,36.606771624049614,-93.4425933032843,
+5725.0,Joe Bald,Road,,65686,107,36.60525688235295,-93.46166526470587,
+2579.0,Montague,Lane,,65686,107,36.606053387755104,-93.4566301632653,
+27.0,Notaroad,Lane,,65737,107,36.666554,-93.458726,
+10.0,Summit,Drive,,65686,107,36.65722992571067,-93.42016162925474,
+10.0,Summit,Drive,,65686,107,36.65722992571067,-93.42016162925474,
+126.0,Terrace Park,Road,,65737,107,36.6307940831756,-93.45790189192795,
+166.0,Terrace Park,Road,,65737,107,36.631269237985315,-93.45825930446404,
+166.0,Terrace Park,Road,,65737,107,36.631269237985315,-93.45825930446404,
+1167.0,Dogwood Village,Lane,,65686,108,36.581012491290224,-93.45081319134856,
+9.0,fairway,court,,65686,108,36.64863942424272,-93.4218373225605,
+181.0,Forest Edge,Lane,,65686,108,36.622022753511445,-93.44615045211206,
+5.0,Greenbrier,Drive,,65686,108,36.63353537388572,-93.43841079270834,
+1328.0,Meadowview,Road,,65656,108,36.68755592389609,-93.44882084803865,
+527.0,Notch,Lane,,65737,108,36.68563605146724,-93.33198977844977,
+1607.0,paradise Landing,Road,,65686,108,36.614704833004495,-93.41917420722636,
+261.0,The Lodges,Drive,Lampe ,65681,108,36.5943449461337,-93.43013822154651,
+9.0,Unreadable,,,65686,108,0.0,0.0,
+194.0,Wildflower,Drive,,65686,108,0.0,0.0,
+5.0,Edgemont,Drive,,65686,109,36.639939,-93.428951,
+7.0,Edgemont,Drive,,65686,109,36.6396162547722,-93.42933493851258,
+7.0,Edgemont,Drive,,65686,109,36.6396162547722,-93.42933493851258,
+2.0,Hickory,Lane,,65737,109,0.0,0.0,
+2.0,Hickory,Lane,,65737,109,0.0,0.0,
+850.0,Santana,Circle,Reeds Spring,65737,109,36.65086386170861,-93.46379894269789,
+23.0,Skyline,Drive,Kimberling City,65686,109,36.63806887897787,-93.43617237324843,
+23.0,Skyline,Drive,Kimberling City,65686,109,36.63806887897787,-93.43617237324843,
+2.0,Willow,Lane,,65686,109,36.640041,-93.428742,
+2.0,Willow,Lane,,65686,109,36.640041,-93.428742,
+252.0,Daybreak,Lane,,65737,110,36.629036374829674,-93.37517507425923,
+252.0,Daybreak,Lane,,65737,110,36.629036374829674,-93.37517507425923,
+5.0,Edgemont,Drive,,65686,110,36.639939,-93.428951,
+117.0,Faith Valley,Lane,,65681,110,36.54417139366452,-93.45864676338039,
+519.0,Mark Twain,Drive,,65737,110,36.65959365114971,-93.38887721553986,
+116.0,North Maple,Street,,65611,110,36.57694824489796,-93.33843740816327,
+2557.0,Wilson Creek,Road,,65656,110,0.0,0.0,
+481.0,Cedar Bluff,Road,,65624,111,36.762350397833714,-93.54751069964608,
+222.0,Indian Cove,Drive,,65681,111,36.568029412859275,-93.47850912185015,
+222.0,Indian Cove,Drive,,65681,111,36.568029412859275,-93.47850912185015,
+614.0,Misty Springs,Road,,65656,111,0.0,0.0,
+3787.0,MO 248,,,65737,111,36.757567,-93.325856,
+228.0,Pinnacle Shores,Drive,Lampe ,65681,111,36.5902997,-93.4329882,
+300.0,Port,Drive,Kimberling City,65686,111,36.641171,-93.411939,
+485.0,Bear Den Cove,Lane,,65656,112,36.704524045754226,-93.49702034261468,
+485.0,Bear Den Cove,Lane,,65656,112,36.704524045754226,-93.49702034261468,
+230.0,Hillsboro,Drive,,65656,112,36.70702464948126,-93.49983846492256,
+230.0,Hillsboro,Drive,,65656,112,36.70702464948126,-93.49983846492256,
+122.0,Nickel,Lane,,65656,112,36.70747603767477,-93.49826939413109,
+122.0,Nickel,Lane,,65656,112,36.70747603767477,-93.49826939413109,
+358.0,Virgin Bluff,Drive,,65656,112,36.704980109496084,-93.4995763633017,
+548.0,Hunt Club,Circle,,65656,113,36.71187,-93.502111,
+548.0,Hunt Club,Circle,,65656,113,36.71187,-93.502111,
+606.0,Hunt Club,Circle,,65656,113,36.71251762773975,-93.50210234788592,
+615.0,Hunt Club,Circle,,65656,113,36.71232343833532,-93.50189809807306,
+615.0,Hunt Club,Circle,,65656,113,36.71232343833532,-93.50189809807306,
+647.0,Hunt Club,Circle,,65656,113,36.71272781368831,-93.50188007369388,
+647.0,Hunt Club,Circle,,65656,113,36.71272781368831,-93.50188007369388,
+3515.0,Hunt Club,Circle,,65656,113,36.712505,-93.501999,
+260.0,Virgin Bluff,Drive,,65656,113,36.70366074981608,-93.49865194731474,
+260.0,Virgin Bluff,Drive,,65656,113,36.70366074981608,-93.49865194731474,
+93.0,Hillsboro,,,65656,114,36.705853344534,-93.49799790709552,
+209.0,Hunt Club,Circle,,65656,114,36.71332399175515,-93.50326628854228,
+209.0,Hunt Club,Circle,,65656,114,36.71332399175515,-93.50326628854228,
+269.0,Hunt Club,Circle,,65656,114,36.712470690186024,-93.50326932790672,
+269.0,Hunt Club,Circle,,65656,114,36.712470690186024,-93.50326932790672,
+309.0,Hunt Club,Circle,,65656,114,36.711902150872326,-93.50328585641071,
+309.0,Hunt Club,Circle,,65656,114,36.711902150872326,-93.50328585641071,
+207.0,Virgin Bluff,,,65656,114,36.70411287056344,-93.49843186049688,
+207.0,Virgin Bluff,,,65656,114,36.70411287056344,-93.49843186049688,
+9.0,Arrowhead,Road,,65686,115,36.637809,-93.417233,
+6.0,Buttonwood,Drive,Kimberling City,65686,115,36.651577,-93.433589,
+258.0,Eagle Ridge,Lane,Branson West,65737,115,36.61766701862713,-93.3728416799559,
+8.0,Hillcrest,Drive,Kimberling City,65686,115,36.64664656336125,-93.42998780521573,
+8.0,Hillcrest,Drive,Kimberling City,65686,115,36.64664656336125,-93.42998780521573,
+12.0,James River,Lane,Kimberling City,65686,115,36.65252579707187,-93.4222975781003,
+168.0,Sherwood,Circle,,65686,115,36.61249643664326,-93.40401916198199,
+168.0,Sherwood,Circle,,65686,115,36.61249643664326,-93.40401916198199,
+190.0,Starrville,Lane,Branson West,65737,115,36.66528753164186,-93.42010553314883,
+190.0,Starrville,Lane,Branson West,65737,115,36.66528753164186,-93.42010553314883,
+7518.0,MO 13,,,65681,116,36.57220792732799,-93.42825683815617,
+117.0,Sunny,Lane,Branson West,65673,117,0.0,0.0,
+37.0,Whiterock,Lane,,65686,117,36.6356049892423,-93.43884540236208,
+35.0,Catamaran,Drive,Kimberling City,65686,118,36.64428329057663,-93.41354192027148,
+34.0,Lakeshore,Drive,Kimberling City,65686,118,36.64272,-93.424705,
+140.0,Lakeshore,Drive,Kimberling City,65686,118,0.0,0.0,
+526.0,Notch,Lane,,65737,118,36.68550046912243,-93.33174268590511,
+243.0,Old Mill,Road,,65671,118,0.0,0.0,
+116.0,Sunny,Lane,Branson West,65737,118,36.714708564285715,-93.36415864971042,
+117.0,Sunny,Lane,Branson West,65737,118,36.71459850960216,-93.3644149509052,
+119.0,Sunny,Lane,Branson West,65737,118,36.71454916194154,-93.36421759613977,
+125.0,Sunny,Lane,Branson West,65737,118,36.714381,-93.363522,
+106.0,E 6th,Street,,65656,119,36.803923326530615,-93.46649553061225,
+35.0,Night Fall,Lane,,65737,119,0.0,0.0,
+35.0,Night Fall,Lane,,65737,119,0.0,0.0,
+20.0,Redbud,Lane,Kimberling City,65686,119,36.63414116967449,-93.43656800449621,
+22.0,Skyline,Drive,Kimberling City,65686,119,36.638028543964005,-93.4359456663534,
+22.0,Skyline,Drive,Kimberling City,65686,119,36.638028543964005,-93.4359456663534,
+33.0,Stones Throw,Road,,65737,119,0.0,0.0,
+75.0,The Lodges,Drive,Lampe ,65681,119,36.59351367434488,-93.42933736056483,
+43.0,Wards,Place,,65737,119,0.0,0.0,
+43.0,Andrew,Drive,,65737,120,0.0,0.0,
+43.0,Andrew,Drive,,65737,120,0.0,0.0,
+256.0,Branson West,,,65737,120,36.6968941,-93.3689339,
+1129.0,Broken Arrow,Road,Lampe ,65681,120,36.56105635,-93.4619113,
+672.0,Mark Twain,Drive,,65737,120,36.657538824162906,-93.38953419920499,
+402.0,Santana,Circle,Reeds Spring,65737,120,36.652189114515416,-93.47000124109658,
+902.0,Silverbluff,Circle,,65737,120,36.68866510588926,-93.31425548403429,
+902.0,Silverbluff,Circle,,65737,120,36.68866510588926,-93.31425548403429,
+540.0,State Highway DD,,,65737,120,36.67083525797166,-93.38734136988502,
+34.0,Woodland,Avenue,,65686,120,36.63687588824197,-93.42191047581849,
+200.0,Daisy,Lane,,65681,121,36.542457,-93.509032,
+200.0,Daisy,Lane,,65681,121,36.542457,-93.509032,
+238.0,Daisy,Lane,,65681,121,36.542674590410435,-93.50902930823102,
+278.0,Daisy,Lane,,65681,121,36.54289284938093,-93.50909314974095,
+286.0,Daisy,Lane,,65681,121,36.54307742857143,-93.50920128571428,
+286.0,Daisy,Lane,,65681,121,36.54307742857143,-93.50920128571428,
+872.0,Dogwood Village,Lane,,65681,121,36.57786033781661,-93.4539451657659,
+108.0,Judy Gail,Lane,,65681,121,0.0,0.0,
+108.0,Judy Gail,Lane,,65681,121,0.0,0.0,
+7.0,Oak Shadow,Drive,,65686,121,36.645199710965734,-93.41021784462158,
+62.0,Daisy,Lane,,65681,122,36.538558,-93.508982,
+62.0,Daisy,Lane,,65681,122,36.538558,-93.508982,
+150.0,Green Acres,Rd,,65681,122,36.536248422371486,-93.50960037453528,
+8758.0,MO 86,,,65747,122,36.50781620430108,-93.5642341827957,
+8758.0,MO 86,,,65747,122,36.50781620430108,-93.5642341827957,
+312.0,Rollin Acers,Road,,65686,122,0.0,0.0,
+431.0,Uniqueville,,,65681,122,36.592774075300596,-93.49701992361057,
+451.0,Uniqueville,,,65681,122,36.592762042526715,-93.4970564803236,
+465.0,Uniqueville,,,65681,122,36.592753619585,-93.49708207002271,
+465.0,Uniqueville,,,65681,122,36.592753619585,-93.49708207002271,
+1670.0,Blackberry,Lane,Crane,65633,123,36.90789606855067,-93.54752429838192,
+1057.0,Burr Oak,Drive,Crane,65633,123,36.86944029610163,-93.56291100819786,
+404.0,Kadee,Drive,,65633,123,36.8962132789427,-93.5778569478844,
+412.0,Kadee,Drive,,65633,123,36.896658,-93.577675,
+209.0,Maud,Avenue,,65633,123,36.90786997959184,-93.57134328571429,
+302.0,Maud,Avenue,,65633,123,36.907721232741665,-93.57260211045818,
+1654.0,MO AA,,,65656,123,36.83971778455355,-93.4863668126431,
+305.0,S Commerce,,,65633,123,36.89965693877551,-93.57309169387754,
+303.0,S Hemphill,Street,,65633,123,0.0,0.0,
+501.0,S Hemphill,Street,,65633,123,0.0,0.0,
+507.0,Carr,Street,,65656,124,0.0,0.0,
+303.0,East,Avenue,,65633,124,36.903079,-93.558348,
+1597.0,Flat Creek,Road,,65624,124,36.7835,-93.545329,
+1597.0,Flat Creek,Road,,65624,124,36.7835,-93.545329,
+1336.0,MO FF,,,65656,124,36.85977234615385,-93.56320661538462,
+4452.0,Round House,Road,,65605,124,0.0,0.0,
+511.0,S Commerce,,,65633,124,36.897069580031435,-93.57386908627895,
+1054.0,Sunday,Drive,,65633,124,36.86436855555555,-93.59468788888888,
+315.0,W 10th,Street,,65656,124,36.80028574617794,-93.46899182152254,
+3029.0,W27,Street,,64804,124,0.0,0.0,
+46.0,Acoma,Drive,,65737,125,36.65140970833333,-93.36876195833334,
+46.0,Acoma,Drive,,65737,125,36.65140970833333,-93.36876195833334,
+60.0,Golfcrest,Drive,,65686,125,36.64917033453957,-93.42223643667354,
+275.0,Hidden Shores,Drive,Reeds Spring,65737,125,36.580145695529666,-93.36797456388902,
+14.0,James River,Road,Kimberling City,65686,125,36.65938352995419,-93.41764899541913,
+331.0,Ridgeview,Road,Branson West,65737,125,36.64358113562996,-93.38590119764774,
+331.0,Ridgeview,Road,Branson West,65737,125,36.64358113562996,-93.38590119764774,
+409.0,Sleepy Hollow,Drive,,65686,125,36.615433061224486,-93.44888889795918,
+409.0,Sleepy Hollow,Drive,,65686,125,36.615433061224486,-93.44888889795918,
+53.0,Whiterock,Bluff,,65737,125,0.0,0.0,
+49.0,Fishin View,Trail,,65686,126,0.0,0.0,
+111.0,James River,Road,Kimberling City,65686,126,36.646347,-93.429403,
+4.0,kimrock,Lane,,65686,126,0.0,0.0,
+18593.0,MO 13,,,65737,126,36.702108229823295,-93.36969754877849,
+1937.0,Mule Barn,Drive,Cape Fair,65624,126,36.72375928392715,-93.48806793447258,
+67.0,Port,Drive,Kimberling City,65686,126,0.0,0.0,
+67.0,port,Drive,Kimberling City,65686,126,0.0,0.0,
+170.0,Reality Acers,Drive,,65737,126,0.0,0.0,
+762.0,Showplace,Gateway,,65616,126,36.62626647057784,-93.31549287546112,
+24.0,Starboard,Drive,Kimberling City,65686,126,36.643708,-93.413014,
+47.0,Wisteria,Lane,,65737,126,36.64298088118161,-93.362234730744,
+8.0,Bridgeview,Drive,Kimberling City,65686,127,36.633976,-93.437677,
+1.0,Hawthorn,,,65686,127,36.602423,-93.377554,
+12.0,Hawthorn,,,65686,127,36.602258135756294,-93.37772128921377,
+1369.0,Little Aunts Creek,Road,,65686,127,36.64465973397143,-93.46744805322588,
+1406.0,Little Aunts Creek,Road,,65686,127,36.64447676402439,-93.46719400021519,
+1512.0,Little Aunts Creek,Road,,65686,127,36.64509669387755,-93.47002091836734,
+12.0,Midview,Drive,,65686,127,36.65326242271296,-93.42422746792799,
+41.0,Overton,court,,65686,127,36.64374467965891,-93.47104312449719,
+1002.0,paradise Landing,Road,,65686,127,0.0,0.0,
+344.0,Summer,Road,,65686,127,36.63876737088901,-93.46357911180573,
+613.0,Summer,Road,,65686,127,36.6391818968342,-93.46421580409982,
+9.0,Arrowhead,Road,,65686,128,36.637809,-93.417233,
+1813.0,Cottage Hill,Road,,65686,128,0.0,0.0,
+10.0,Hilltop,Drive,Kimberling City,65686,128,36.64782007151935,-93.4268927932533,
+50.0,Kimberling City Center,Lane,Kimberling City,65686,128,36.63044,-93.42259,PO Box
+660.0,Plateau,Lane,Kimberling City,65686,128,36.62669168975369,-93.45038809523398,
+300.0,Port,Drive,Kimberling City,65686,128,36.641171,-93.411939,
+228.0,Seaton Heights,,,65737,128,36.750114488353915,-93.38685841809685,
+87.0,Silverbridge,Lane,Kimberling City,65686,128,36.61454327516778,-93.41373046308725,
+181.0,Southport,Lane,,65686,128,0.0,0.0,
+15.0,Starboard,Drive,Kimberling City,65686,128,36.643708,-93.413014,
+10.0,Ashwood,Lane,,65737,129,36.692523727938216,-93.31699055671719,
+624.0,Millwood,Drive,,65737,129,36.59213395981323,-93.36357579669715,
+46.0,Pink Sunset,Lane,,65686,129,0.0,0.0,
+303.0,Port,Drive,Kimberling City,65686,129,36.64115648587126,-93.41193183969649,
+540.0,Silver Cliff,,,65737,129,0.0,0.0,
+840.0,Silver Cliff,Way,,65737,129,0.0,0.0,
+300.0,Slane Chapel,Road,,65737,129,36.60687,-93.385459,
+14.0,Walnut,Lane,,65686,129,36.635601,-93.430028,
+317.0,Ridgeview,Road,Branson West,65737,130,36.643677516494954,-93.38590185598699,
+327.0,Ridgeview,Road,Branson West,65737,130,36.643608673019955,-93.38590138574467,
+327.0,Ridgeview,Road,Branson West,65737,130,36.643608673019955,-93.38590138574467,
+349.0,Ridgeview,Road,Branson West,65737,130,36.64345721737497,-93.38590035121157,
+349.0,Ridgeview,Road,Branson West,65737,130,36.64345721737497,-93.38590035121157,
+414.0,Ridgeview,Road,Branson West,65737,130,36.64282061616882,-93.38469950376181,
+414.0,Ridgeview,Road,Branson West,65737,130,36.64282061616882,-93.38469950376181,
+336.0,Boston Farms,Road,,65737,131,36.76100026050455,-93.32900154318523,
+1252.0,Gobblers,Mountain,,65737,131,36.63187972833277,-93.39861744470934,
+217.0,Mayden,Lane,,65616,131,0.0,0.0,
+263.0,Mayden,Lane,,65616,131,0.0,0.0,
+64.0,N Granny,Lane,,65737,131,36.65400634769391,-93.37632214438314,
+264.0,Tablerock,Circle,Branson,65616,131,36.62424761123706,-93.34753782483651,
+264.0,Tablerock,Circle,Branson,65616,131,36.62424761123706,-93.34753782483651,
+9.0,Treehouse,Lane,,65616,131,36.645150490584896,-93.34229203656413,
+195.0,Mayden,Lane,,65616,132,0.0,0.0,
+217.0,Mayden,Lane,,65616,132,0.0,0.0,
+556.0,Tablerock,Circle,Branson,65616,132,36.61996144702645,-93.34672553369612,
+864.0,Tablerock,Circle,Branson,65616,132,36.622533049640346,-93.34243329145156,
+5.0,Treehouse,Lane,,65616,132,36.64514674529244,-93.34232751828208,
+24.0,Village,Trail,,65616,132,36.63524342009829,-93.34286332251133,
+24.0,Village,Trail,,65616,132,36.63524342009829,-93.34286332251133,
+1322.0,Dogwood,,,65681,133,36.57889343604331,-93.4513306870162,
+253.0,Forest,Lane,Kimberling City,65686,133,36.61802797775136,-93.44323132766011,
+30.0,Good,Lane,,65681,133,36.56719737530247,-93.49482957536497,
+4443.0,MO H,,,65681,133,36.56786068997377,-93.49300529303066,
+150.0,Rome,Circle,,65681,133,0.0,0.0,
+150.0,Rome,Circle,,65681,133,0.0,0.0,
+161.0,Craig,Street,,65737,134,36.73936234562174,-93.37709249978542,
+161.0,Craig,Street,,65737,134,36.73936234562174,-93.37709249978542,
+332.0,Craig,Street,,65737,134,36.738996402103,-93.37788734913286,
+333.0,Craig,Street,,65737,134,36.738957491243674,-93.37809386599291,
+333.0,Craig,Street,,65737,134,36.738957491243674,-93.37809386599291,
+417.0,Craig,Street,,65737,134,36.740231,-93.37797160000001,
+417.0,Craig,Street,,65737,134,36.740231,-93.37797160000001,
+420.0,Craig,Street,,65737,134,36.740222083333336,-93.37776691666667,
+12.0,Gizmo,Lane,,65737,134,0.0,0.0,
+27.0,Tower,Lane,,65737,134,36.7400153339918,-93.37745887320231,
+31.0,Blue Bird,Lane,,65737,135,36.74119457850884,-93.37742497051823,
+355.0,Craig,Street,,65737,135,36.73925195707928,-93.37807688090876,
+355.0,Craig,Street,,65737,135,36.73925195707928,-93.37807688090876,
+579.0,Craig,Street,,65737,135,36.74225624106667,-93.37738361706504,
+915.0,Craig,Street,,65737,135,36.74683626098454,-93.37786632296189,
+920.0,Craig,Street,,65737,135,36.746848863302255,-93.37766079131455,
+17996.0,MO 13,,,65737,135,36.694739469387756,-93.3706080102041,
+17996.0,MO 13,,,65737,135,36.694739469387756,-93.3706080102041,
+134.0,Rainwater,Lane,,65737,135,36.70960870811533,-93.39109377505929,
+1573.0,Tilden,Road,,65737,135,36.77351255969538,-93.4745875169865,
+31.0,Blue Bird,Lane,,65737,136,36.74119457850884,-93.37742497051823,
+1761.0,Cedar Ridge,Way,Reeds Spring,65737,137,36.692604004476415,-93.33263908255746,
+66.0,Northwoods,Drive,Kimberling City,65686,137,36.6584028715542,-93.42659684262082,
+69.0,Northwoods,Drive,Kimberling City,65686,137,36.65858908275737,-93.42655367245641,
+69.0,Northwoods,Drive,Kimberling City,65686,137,36.65858908275737,-93.42655367245641,
+71.0,Northwoods,Drive,Kimberling City,65686,137,36.658547200762136,-93.426783711836,
+11.0,Holiday,Drive,,65686,138,36.6376580160876,-93.41595388140631,
+114.0,Lake Hills,Point,Lampe ,65681,138,0.0,0.0,
+191.0,Lakefront,Circle,,65686,138,36.615962760554154,-93.44088829391892,
+66.0,Northwoods,Drive,Kimberling City,65686,138,36.6584028715542,-93.42659684262082,
+66.0,Northwoods,Drive,Kimberling City,65686,138,36.6584028715542,-93.42659684262082,
+2853.0,Pioneer Point,Road,,65656,138,36.65977086224197,-93.47406624847797,
+916.0,Silverbluff,Circle,,65737,138,36.68818588809306,-93.31405339966992,
+24.0,Starboard,Drive,Kimberling City,65686,138,36.643708,-93.413014,
+204.0,Starrville,Lane,Branson West,65737,138,36.66547347824725,-93.42022267131874,
+204.0,Starrville,Lane,Branson West,65737,138,36.66547347824725,-93.42022267131874,
+23.0,Kami,Lane,,65610,139,0.0,0.0,
+1703.0,Cedar Ridge,Way,Reeds Spring,65737,140,36.69210947687398,-93.3262403694037,
+79.0,Freebird,Lane,,65686,140,0.0,0.0,
+142.0,Lakeshore,Drive,Kimberling City,65686,140,36.632995,-93.431963,
+142.0,Lakeshore,Drive,Kimberling City,65686,140,36.632995,-93.431963,
+585.0,Lakeshore,Drive,Kimberling City,65686,140,0.0,0.0,
+500.0,Navajo,Trail,Kimberling City,65686,140,36.619957,-93.434167,
+300.0,port,Drive,Kimberling City,65686,140,36.641171,-93.411939,
+2.0,Port Holiday,Drive,Kimberling City,65686,140,36.629657,-93.425273,
+46.0,Skyline,Drive,Kimberling City,65686,140,36.63967317450023,-93.43430238858527,
+10.0,Summit,Drive,,65686,140,36.65722992571067,-93.42016162925474,
+20.0,corner Rock,Rd,,65686,141,0.0,0.0,
+14.0,Hillcrest,Drive,Kimberling City,65686,141,36.64641613850767,-93.43027345058833,
+134.0,Lakeshore,Drive,Kimberling City,65686,141,36.634229,-93.432464,
+1845.0,MO H,,,65681,141,36.574142086398375,-93.46237389030178,
+518.0,Navajo,Trail,Kimberling City,65686,141,36.61969547147448,-93.43401208288468,
+79.0,Northwoods,Drive,Kimberling City,65686,141,36.658317726201524,-93.42769890833502,
+200.0,Overton,Rd,,65686,141,0.0,0.0,
+1607.0,paradise Landing,Road,,65686,141,36.614704833004495,-93.41917420722636,
+355.0,Silverbridge,Lane,Kimberling City,65686,141,36.61466306487272,-93.41300933750513,
+157.0,Watership Down,Lane,,65681,141,36.614797714285714,-93.484591,
+17.0,Catamaran,Drive,Kimberling City,65686,142,36.644178739725355,-93.41345327933236,
+34.0,Hillcrest,Drive,Kimberling City,65686,142,36.645601920468756,-93.43124341789441,
+96.0,Homewood,Lane,,65686,142,36.62283146469033,-93.44789607242411,
+96.0,Homewood,Lane,,65686,142,36.62283146469033,-93.44789607242411,
+106.0,James View,Rd,,65686,142,36.63389332327613,-93.45326266483096,
+112.0,Keel,Lane,Kimberling City,65686,142,36.643025669672404,-93.41390594966968,
+1222.0,Little Aunts Creek,Circle,,65686,142,0.0,0.0,
+93.0,Starboard,Drive,Kimberling City,65686,142,36.64414186804744,-93.41309893020721,
+127.0,Trailsend,Street,,65737,142,0.0,0.0,
+110.0,Wild Plum,,,65737,142,0.0,0.0,
+206.0,Corewood,Lane,Reeds Spring,65737,143,36.65840805998372,-93.45754087709868,
+5.0,Elm,Drive,Kimberling City,65686,143,36.64107661442309,-93.42897015206869,
+31.0,Hansom,Lane,,65737,143,0.0,0.0,
+28.0,Irish Hills,Boulevard,,65686,143,36.651724319265576,-93.43965726805435,
+28.0,Irish Hills,Boulevard,,65686,143,36.651724319265576,-93.43965726805435,
+385.0,Melody Manor,Lane,Reeds Spring,65737,143,36.6595878554976,-93.45939689517245,
+385.0,Melody Manor,Lane,Reeds Spring,65737,143,36.6595878554976,-93.45939689517245,
+922.0,MO HH,,,65656,143,36.74661102084414,-93.43776470066443,
+214.0,Pinewood,Drive,,65737,143,36.65176491320108,-93.4669071204015,
+697.0,Austin,Place,,65737,144,36.669414404081635,-93.36247506530613,
+26.0,Kimberling Mannor Estates,,,65686,144,0.0,0.0,
+78.0,Lakeshore,Drive,Kimberling City,65686,144,36.639350924192215,-93.42709177536247,
+91.0,Port,Drive,Kimberling City,65686,144,0.0,0.0,
+53.0,Victory,Lane,,65737,144,36.66127197486512,-93.42020308403681,
+256.0,Ayres Rock,Road,,65737,145,0.0,0.0,
+5.0,Greenbrier,Drive,,65686,145,36.63353537388572,-93.43841079270834,
+630.0,Greenbrier,Drive,,65686,145,36.635291,-93.439826,
+103.0,Laurel,Lane,,65737,145,36.60921042327949,-93.36184560740665,
+634.0,MO RB,,,65681,145,36.59238745253551,-93.43900295221717,
+993.0,Pokeberry,Lane,Lampe ,65681,145,36.590332109983436,-93.41339325485113,
+1023.0,Pokeberry,Lane,Lampe ,65681,145,36.5924007,-93.412425,
+1375.0,Pokeberry,Lane,Lampe ,65681,145,36.59630214684059,-93.41162087209496,
+68.0,Ruby,Circle,,65656,145,36.68365684765173,-93.44708154661834,
+284.0,Wildflower,Drive,,65686,145,0.0,0.0,
+715.0,Edgewater,estate,Kimberling City,65686,146,0.0,0.0,
+1797.0,Lake Bluff,,,65737,146,36.60011971683583,-93.36034915050747,
+1841.0,Lake Bluff,,,65737,146,36.59999515384616,-93.3600676923077,
+47.0,Liberty,Lane,,65656,146,36.730488054906054,-93.50954430757498,
+33.0,Loon,Lane,,65681,146,36.602938913906584,-93.40825783234473,
+887.0,Pokeberry,Lane,Lampe ,65681,146,36.589317,-93.413208,
+968.0,Pokeberry,Lane,Lampe ,65681,146,36.59000259314659,-93.41314133999386,
+968.0,Pokeberry,Lane,Lampe ,65681,146,36.59000259314659,-93.41314133999386,
+66.0,Windy,court,,65737,146,36.58286781181552,-93.37028592566801,
+19.0,Woodpecker,Way,,65737,146,36.591054631600635,-93.3919992461718,
+103.0,James River,Road,Kimberling City,65686,147,36.64760895038101,-93.42862540816593,
+510.0,S Commerce,,,65633,148,36.89697674943638,-93.57369054205414,
+510.0,S Commerce,,,65633,148,36.89697674943638,-93.57369054205414,
+24616.0,MO 413,,,65656,149,36.76335278566754,-93.40445945300837,
+24795.0,MO 413,,,65656,149,36.76486,-93.406028,
+24860.0,MO 413,,,65656,149,36.76693884934551,-93.40718689918144,
+24860.0,MO 413,,,65656,149,36.76693884934551,-93.40718689918144,
+192.0,Boomerang,Drive,,65656,150,36.824174746116235,-93.57615621443725,
+18.0,Harmony,Lane,,65737,150,36.762513857324706,-93.40339538080555,
+1.0,Kristina,lane,Kimberling City,65686,150,36.659474,-93.424577,
+24616.0,MO 413,,,65656,150,36.76335278566754,-93.40445945300837,
+24709.0,MO 413,,,65656,150,36.76398952925139,-93.40545440704703,
+3096.0,Night Shade,Boulevard,,65656,150,36.85276858242213,-93.58905023896747,
+61.0,Quail Cove,Drive,,65686,150,36.64580240033377,-93.4696172442156,
+199.0,Three Pines,Circle,Reeds Spring,65737,150,36.736699,-93.367327,
+199.0,Three Pines,Circle,Reeds Spring,65737,150,36.736699,-93.367327,
+18.0,Zachs,court,,65737,150,36.732077995390505,-93.38928333356972,
+9249.0,MO 13,,,65686,151,36.5968797000296,-93.42828748886868,
+26.0,Bass,Avenue,,65686,151,36.63538143007442,-93.41769398332121,
+85.0,Capulet,Lane,,65686,151,36.60637957837222,-93.44920839667182,
+85.0,Capulet,Lane,,65686,151,36.60637957837222,-93.44920839667182,
+35.0,Hilltop,Lane,,65686,151,36.65511954741741,-93.33503103785795,
+14.0,Bridgeview,Drive,,65686,151,36.63483,-93.437479,
+14.0,Bridgeview,Drive,,65686,151,36.63483,-93.437479,
+308.0,Pokeberry,Lane,,65681,151,36.585873862368366,-93.42213481626132,
+13.0,Raven Dale,Road,,65686,151,0.0,0.0,
+15.0,Elm,Drive,,65686,151,36.640967197411314,-93.42928979654069,
+7127.0,MO 13,,,65681,152,36.567762757126744,-93.43024586934052,
+21277.0,MO 13,,,65737,152,36.73595348201722,-93.37452529816451,
+28.0,Trailridge,Drive,,65686,152,36.647986600732544,-93.41758531515316,
+289.0,Queens,Way,,65686,152,36.63018975913865,-93.45595212422269,
+289.0,Queens,Way,,65686,152,36.63018975913865,-93.45595212422269,
+5759.0,MO 13,,,65681,152,36.55309826236047,-93.43679954296651,
+2768.0,MO 13,,,65681,152,36.521300598576374,-93.41920690632853,
+315.0,Cron,Road,,65681,152,36.54373780245183,-93.44745895411526,
+106.0,Lakeshore,Drive,,65686,152,36.637789,-93.430902,
+106.0,Lakeshore,Drive,,65686,152,36.637789,-93.430902,
+303.0,Pinewood,Drive,,65737,153,36.651486,-93.469309,
+303.0,Pinewood,Drive,,65737,153,36.651486,-93.469309,
+63.0,Hay Stack,Lane,,65681,153,0.0,0.0,
+63.0,Hay Stack,Lane,,65681,153,0.0,0.0,
+56.0,North Granny,Lane,,65737,153,36.653917253033654,-93.37632382541446,
+356.0,Austin,Place,,65737,153,36.669339678714856,-93.36268108032128,
+8.0,James River,Lane,,65686,153,36.652589105396885,-93.42224100904859,
+178.0,Leighs,Way,,65737,153,36.731449758661746,-93.38764917373558,
+157.0,Tyler,Lane,,65681,153,36.52882874800408,-93.47826739060204,
+7127.0,MO 13,,,65681,153,36.567762757126744,-93.43024586934052,
+244.0,Three Pines,Circle,,65737,154,36.73694715072566,-93.3676449955565,
+30.0,Ridgeview,Road,,65737,154,36.64465778888359,-93.38659310312896,
+18.0,Wildwood,Lane,,65686,154,36.64329530614339,-93.42123313201448,
+18.0,Wildwood,Lane,,65686,154,36.64329530614339,-93.42123313201448,
+229.0,White Bass,Drive,,65656,154,36.745388922359226,-93.44219172006885,
+36.0,Skyline,Drive,,65686,155,36.63882310745344,-93.43480363951375,
+36.0,Skyline,Drive,,65686,155,36.63882310745344,-93.43480363951375,
+1710.0,Cedar Ridge,Way,,65737,155,36.691740010886,-93.32668766524448,
+1710.0,Cedar Ridge,Way,,65737,155,36.691740010886,-93.32668766524448,
+17.0,Sunset Trail,Road,,65681,155,0.0,0.0,
+1855.0,MO HH,,,65656,155,36.75257689677792,-93.45275225549207,
+1855.0,MO HH,,,65656,155,36.75257689677792,-93.45275225549207,
+15.0,Elm Point,Lane,,65686,156,36.608734339248706,-93.4510762903088,
+40.0,Rippling Waters,,,65686,156,0.0,0.0,
+171.0,Old Hunt,Lane,,65737,156,36.72011085642899,-93.36825022390535,
+178.0,Old Hunt,Lane,,65737,156,36.71989313993435,-93.36831050762768,
+175.0,Old Hunt,Lane,,65737,156,36.72013032882957,-93.36818664055652,
+171.0,Old Hunt,Lane,,65737,156,36.72011085642899,-93.36825022390535,
+201.0,Hook,Road,,65737,156,0.0,0.0,
+201.0,Hook,Road,,65737,156,0.0,0.0,
+543.0,Walnut Tree,Drive,,65656,156,36.842279,-93.379814,
+470.0,Hidden Shores,,,65737,156,36.58209724653055,-93.36891398040636,
+47.0,Roxborough,,,65737,157,36.6435550123492,-93.36395418281256,
+67.0,Locust,Lane,,65616,157,36.63243198839475,-93.34009569550535,
+218.0,Fritts,Way,,65737,157,36.71086390272651,-93.3777318649415,
+266.0,Shiloh,Lane,,65686,157,36.62744494347961,-93.44059859698922,
+237.0,Stinger,Lane,,65737,158,0.0,0.0,
+165.0,Stinger,Lane,,65737,158,0.0,0.0,
+155.0,JL Mills,Ridge,,65656,158,0.0,0.0,
+761.0,Saint Cloud,Drive,,65624,158,36.75294424803266,-93.52772438360374,
+11.0,Bridgeview,,,65686,158,36.633935,-93.437479,
+276.0,Wildflower,,,65686,158,36.64635874622013,-93.46565095086342,
+22.0,Yocum Pond,Road,,65656,158,36.74988665784552,-93.39533474001557,
+163.0,Queensberry,,,65737,158,0.0,0.0,
+325.0,Three Pines,,,65737,158,0.0,0.0,
+670.0,Showplace,Gateway,,65616,158,0.0,0.0,
+479.0,Collier,Drive,,65686,159,0.0,0.0,
+1339.0,Little Aunts Creek,Road,,65686,159,0.0,0.0,
+4.0,Copper,court,,65686,159,0.0,0.0,
+102.0,Grand,Lane,,65656,159,0.0,0.0,
+1.0,Port Holiday,Drive,,65686,159,0.0,0.0,
+5.0,kimrock,Lane,,65686,159,0.0,0.0,
+5.0,kimrock,Lane,,65686,159,0.0,0.0,
+39.0,Morgan,Trail,,65737,159,0.0,0.0,
+39.0,Morgan,Trail,,65737,159,0.0,0.0,
+469.0,Whispering Oaks,Drive,,65656,159,0.0,0.0,
+10.0,Cove,Street,,65686,160,0.0,0.0,
+1023.0,Bounty,Drive,,65624,160,0.0,0.0,
+123.0,Bounty,Drive,,65624,160,0.0,0.0,
+171.0,Lillian,Lane,,65686,160,0.0,0.0,
+171.0,Lillian,Lane,,65686,160,0.0,0.0,
+21976.0,Main,Street,,65737,160,0.0,0.0,
+21976.0,Main,Street,,65737,160,0.0,0.0,
+68.0,State Line,Road,,65611,160,0.0,0.0,
+1802.0,?? Hill,Drive,,65633,160,0.0,0.0,
+1162.0,Peble Point,Road,,65624,160,0.0,0.0,
+15.0,Trailridge,Drive,,65686,161,0.0,0.0,
+168.0,Westgate,Lane,,65737,161,0.0,0.0,
+1.0,Chruch,Lane,,65686,161,0.0,0.0,
+10.0,Golfcrest,Circle,,65686,161,0.0,0.0,
+29.0,The Poet,Place,,65737,161,0.0,0.0,
+203.0,Chinook,Lane,,65686,161,0.0,0.0,
+9.0,Bunker,Drive,,65737,161,0.0,0.0,
+9.0,Bunker,Drive,,65737,161,0.0,0.0,
+8551.0,MO 76,,,65624,161,0.0,0.0,
+1805.0,Rock Church,Road,,65656,161,0.0,0.0,
+718.0,Camp Yocum,,,65656,162,0.0,0.0,
+718.0,Camp Yocum,,,65656,162,0.0,0.0,
+21.0,Skyline,Drive,,65686,162,0.0,0.0,
+66.0,Celebration,Drive,,65737,162,0.0,0.0,
+197.0,Ferland,Lane,,65737,162,0.0,0.0,
+1907.0,Yocum Pond,Road,,65656,162,0.0,0.0,
+4.0,September Falls,,,65686,162,0.0,0.0,
+236.0,Wildflower,,,65686,162,0.0,0.0,
+44.0,Bethany Shores,Drive,,65737,162,0.0,0.0,
+44.0,Bethany Shores,Drive,,65737,162,0.0,0.0,
+503.0,Austin,Place,,65737,163,0.0,0.0,
+503.0,Austin,Place,,65737,163,0.0,0.0,
+503.0,Austin,Place,,65737,163,0.0,0.0,
+480.0,Austin,Place,,65737,163,0.0,0.0,
+520.0,Austin,Place,,65737,163,0.0,0.0,
+560.0,Austin,Place,,65737,163,0.0,0.0,
+560.0,Austin,Place,,65737,163,0.0,0.0,
+137.0,Angora,Road,,65737,163,0.0,0.0,
+137.0,Angora,Road,,65737,163,0.0,0.0,
+307.0,Austin,Place,,65737,163,0.0,0.0,
+102.0,Mountain View,Circle,,65737,164,0.0,0.0,
+102.0,Mountain View,Circle,,65737,164,0.0,0.0,
+26891.0,MO 413,,,65656,164,0.0,0.0,
+500.0,Austin,Place,,65737,164,0.0,0.0,
+500.0,Austin,Place,,65737,164,0.0,0.0,
+22748.0,Old Highway 76,,,65737,164,0.0,0.0,
+14.0,Woodland,,,67010,164,0.0,0.0,
+493.0,Dogwood Village,Lane,,65681,164,0.0,0.0,
+3049.0,MO H,,,65681,164,0.0,0.0,
+475.0,Acorn,Drive,,65737,164,0.0,0.0,
+1401.0,Stoney Creek,Circle,,65737,165,0.0,0.0,
+18.0,Liberty,Lane,,65686,165,0.0,0.0,
+1773.0,Cedar Ridge,Way,,65737,165,0.0,0.0,
+1773.0,Cedar Ridge,Way,,65737,165,0.0,0.0,
+114.0,Silveroak,Way,,65737,165,0.0,0.0,
+114.0,Silveroak,Way,,65737,165,0.0,0.0,
+19.0,Middlegate,,,65737,165,0.0,0.0,
+27.0,By Pass Loop,,,65737,166,0.0,0.0,
+43.0,Hillbilly,Drive,,65656,166,0.0,0.0,
+350.0,Mark Twain,Drive,,65737,166,0.0,0.0,
+291.0,Mark Twain,Drive,,65737,166,0.0,0.0,
+9623.0,MO 76,,,65624,166,0.0,0.0,
+9623.0,MO 76,,,65624,166,0.0,0.0,
+734.0,Mark Twain,Drive,,65737,167,0.0,0.0,
+734.0,Mark Twain,Drive,,65737,167,0.0,0.0,
+683.0,Mark Twain,Drive,,65737,167,0.0,0.0,
+10.0,Baywood,Circle,,65737,167,0.0,0.0,
+723.0,Mark Twain,Drive,,65737,167,0.0,0.0,
+628.0,Mark Twain,Drive,,65737,167,0.0,0.0,
+142.0,By Pass Loop,,,65737,167,0.0,0.0,
+47.0,By Pass Loop,,,65737,167,0.0,0.0,
+27.0,By Pass Loop,,,65737,167,0.0,0.0,
+155.0,Briar Oaks,Lane,,65737,168,0.0,0.0,
+155.0,Briar Oaks,Lane,,65737,168,0.0,0.0,
+180.0,Briar Oaks,Lane,,65737,168,0.0,0.0,
+4772.0,MO DD,,,65737,168,0.0,0.0,
+4772.0,MO DD,,,65737,168,0.0,0.0,
+6.0,Bluegrass,Drive,,65737,168,0.0,0.0,
+6.0,Bluegrass,Drive,,65737,168,0.0,0.0,
+9.0,Little Memory,Lane,,65737,168,0.0,0.0,
+9.0,Little Memory,Lane,,65737,168,0.0,0.0,
+734.0,Mark Twain,Drive,,65737,168,0.0,0.0,
+55.0,Northshore,Drive,,65624,169,0.0,0.0,
+194.0,Chestnut,Road,,65624,169,0.0,0.0,
+194.0,Chestnut,Road,,65624,169,0.0,0.0,
+113.0,Rabbit Run,,,65624,169,0.0,0.0,
+87.0,Fox Run,Lane,,65624,169,0.0,0.0,
+323.0,Roan,Road,,65624,169,0.0,0.0,
+323.0,Roan,Road,,65624,169,0.0,0.0,
+189.0,South,Street,,65624,169,0.0,0.0,
+75.0,Halfmoon,Road,,65624,169,0.0,0.0,
+377.0,Sundance,Road,,65624,169,0.0,0.0,
+59.0,Spirit,Lane,,65624,170,0.0,0.0,
+87.0,Fox Run,Lane,,65624,170,0.0,0.0,
+163.0,Halfmoon,Road,,65624,170,0.0,0.0,
+280.0,Ball Diamond,,,65624,170,0.0,0.0,
+95.0,Kingdom,Street,,65624,170,0.0,0.0,
+1187.0,Redbud,Drive,,65624,170,0.0,0.0,
+509.0,Holiday Hills,Drive,,65624,170,0.0,0.0,
+507.0,Holiday Hills,Drive,,65624,170,0.0,0.0,
+2285.0,Eaglecrest,,,65624,170,0.0,0.0,
+2285.0,Eaglecrest,,,65624,170,0.0,0.0,
+344.0,Palomino,Road,,65624,171,0.0,0.0,
+93.0,Howard,Circle,,65624,171,0.0,0.0,
+344.0,Palomino,Road,,65624,171,0.0,0.0,
+93.0,Howard,Circle,,65624,171,0.0,0.0,
+329.0,Flagstone,Road,,65624,171,0.0,0.0,
+329.0,Flagstone,Road,,65624,171,0.0,0.0,
+0.0,PO BOX,,,65624,171,0.0,0.0,
+0.0,PO BOX,,,65624,171,0.0,0.0,
+99.0,Redbud,Drive,,65624,171,0.0,0.0,
+146.0,Ball Diamond,Road,,65624,171,0.0,0.0,
+99.0,Redbud,Drive,,65624,172,0.0,0.0,
+197.0,Star,Street,,65624,172,0.0,0.0,
+88.0,Cross,Road,,65624,172,0.0,0.0,
+88.0,Cross,Road,,65624,172,0.0,0.0,
+11232.0,MO 76,,,65624,172,0.0,0.0,
+175.0,Redbud,Drive,,65624,172,36.71530351287686,-93.56189609231518,
+60.0,Unreadable,,,65624,172,0.0,0.0,
+11641.0,Fir Rd,,,64836,172,0.0,0.0,
+11641.0,Fir Rd,,,64836,172,0.0,0.0,
+130.0,North Shar,Drive,,65624,172,0.0,0.0,
+612.0,Crossing,Drive,,65737,173,36.68602658275418,-93.31389627228361,
+616.0,Stoney Creek,Circle,,65737,173,36.688943,-93.322046,
+622.0,Crossing,Drive,,65737,173,36.68616637141945,-93.31358513249626,
+1004.0,Silvercrest,Place,,65737,173,36.68926522472287,-93.30974829963048,
+119.0,Silveroak,Way,,65737,173,36.684239544072476,-93.32053597129519,
+119.0,Silveroak,Way,,65737,173,36.684239544072476,-93.32053597129519,
+1215.0,Ledgestone,Circle,,65737,173,36.69144572075856,-93.31967474268428,
+1310.0,Stoney Creek,Circle,,65737,173,36.68931467638894,-93.32118812025546,
+1310.0,Stoney Creek,Circle,,65737,173,36.68931467638894,-93.32118812025546,
+1401.0,Stoney Creek,Circle,,65737,173,36.68902022331713,-93.3223451549976,
+43.0,Granite,Drive,,65737,174,0.0,0.0,
+1203.0,Ledgestone,Circle,,65737,174,36.69109814143653,-93.31978593031137,
+1203.0,Ledgestone,Circle,,65737,174,36.69109814143653,-93.31978593031137,
+1725.0,Cedar Ridge,Way,,65737,174,36.69175907439069,-93.32846510107693,
+800.0,Black Forest,Lane,,65737,174,36.6988355214023,-93.32968244086794,
+800.0,Black Forest,Lane,,65737,174,36.6988355214023,-93.32968244086794,
+7.0,Birdie,Lane,,65737,174,36.683959386265585,-93.31599933904612,
+2468.0,Coonridge,Road,,65656,174,0.0,0.0,
+104.0,Ashwood,Lane,,65737,174,36.69139774133502,-93.31646248267003,
+104.0,Ashwood,Lane,,65737,174,36.69139774133502,-93.31646248267003,
+62.0,Mountain View,Circle,,65737,175,0.0,0.0,
+241.0,Mountain View,Circle,,65737,175,0.0,0.0,
+256.0,Mountain View,Circle,,65737,175,0.0,0.0,
+612.0,Crossing,Drive,,65737,175,36.68602658275418,-93.31389627228361,
+292.0,Steven,Lane,,65737,175,36.71086145766325,-93.38838716307721,
+381.0,Cedar Glade,,,65737,175,36.71539819087751,-93.31788857934674,
+43.0,Granite,Drive,,65737,175,0.0,0.0,
+381.0,Cedar Glade,,,65737,175,36.71539819087751,-93.31788857934674,
+11.0,Bluebird,Drive,,65686,175,36.634801,-93.42282569046554,
+11.0,Fade,Lane,,65737,175,36.6832075681763,-93.31524872753783,
+1003.0,Silvercrest,Place,,65737,176,36.689426,-93.310075,
+11.0,Par,Lane,,65737,176,36.68245108825193,-93.31596147563839,
+1199.0,Redrock,Road,,65656,176,0.0,0.0,
+1199.0,Redrock,Road,,65656,176,0.0,0.0,
+708.0,Ledges,Way,,65737,176,36.686411531831446,-93.31452984149051,
+708.0,Ledges,Way,,65737,176,36.686411531831446,-93.31452984149051,
+927.0,Ledges,Way,,65737,176,36.686984,-93.312486,
+927.0,Ledges,Way,,65737,176,36.686984,-93.312486,
+241.0,Mountain View,Circle,,65737,176,0.0,0.0,
+7.0,Oleary,Drive,,65686,177,0.0,0.0,
+2186.0,Capulet,Lane,,65686,177,36.606261,-93.448828,
+303.0,S Maple,,,65686,177,36.57493324603087,-93.33866665600185,
+285.0,Buck Run,Drive,,65737,177,36.58693638084016,-93.3699035989741,
+258.0,Buck Run,Drive,,65737,177,36.58697894387057,-93.37014287815799,
+459.0,Forest,Lane,,65686,177,36.61740519818592,-93.44010977263693,
+459.0,Forest,Lane,,65686,177,36.61740519818592,-93.44010977263693,
+1711.0,paradise Landing,Road,,65686,177,36.612997,-93.419686,
+1711.0,paradise Landing,Road,,65686,177,36.612997,-93.419686,
+420.0,Grandview Hills,Circle,,65737,177,36.58167805859587,-93.3698946660508,
+88.0,Chinkapen,Lane,,65686,178,0.0,0.0,
+7.0,Oleary,Drive,,65686,178,0.0,0.0,
+20.0,Redbud,Lane,,65686,178,36.63414116967449,-93.43656800449621,
+1300.0,Peace in the Valley,Road,,65611,178,0.0,0.0,
+1560.0,Peace in the Valley,Road,,65611,178,0.0,0.0,
+10.0,Regatta,Lane,,65686,178,36.64535184147498,-93.41274392475407,
+272.0,Moon,Drive,,65737,178,0.0,0.0,
+133.0,Point seven,Road,,65686,178,36.612285328214774,-93.41669250613744,
+133.0,Point seven,Road,,65686,178,36.612285328214774,-93.41669250613744,
+105.0,Oak,,,65686,178,0.0,0.0,
+125.0,Ravenwood,Lane,,65681,179,36.60153514443508,-93.49593968682693,
+125.0,Ravenwood,Lane,,65681,179,36.60153514443508,-93.49593968682693,
+238.0,Mayflower,Drive,,65681,179,36.60122759752388,-93.49274071237305,
+81.0,MO EE,,,65611,179,36.505299,-93.39444735294119,
+124.0,Hay Stack,Lane,,65681,179,0.0,0.0,
+93.0,Evening Side,Lane,,65611,179,36.57004271428571,-93.34432677142857,
+124.0,Hay Stack,Lane,,65868,179,0.0,0.0,
+120.0,Richard Barns,Lane,,65656,179,0.0,0.0,
+50.0,Unreadable,,,65686,179,0.0,0.0,
