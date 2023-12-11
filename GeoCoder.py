@@ -5,7 +5,11 @@ def geocode_address(row):
     geolocator = Nominatim(user_agent="geocoder_script")
     try:
         print(row)
-        address = (str(int(row['num'])) + ", ")
+        address = ""
+        try:
+            address += (str(int(row['num'])) + ", ")
+        except Exception as e:
+            address += ","
         address +=  str(row['street'])
         address += " "
         
